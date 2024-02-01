@@ -5,20 +5,22 @@ function classMaker(linguage, num) {
   const topicsTextList = [];
   topicsNodeList.forEach((node) => {
     if (node.innerHTML.includes('<br>')) {
-      arr.push(node.innerText);
+      topicsTextList.push(`"${node.innerText}"`);
     }
   });
 
   if (linguage === 'py') {
     console.log(
-      `class Unit${num}:
-          topics = [${topicsTextList.join(',')}]`
+      `class Lesson${num}:
+          topics = [${topicsTextList.join(',')}]
+          practicing = []`
     );
   }
   if (linguage === 'mjs') {
     console.log(
-      `export default class Unit${num} {
-                static topics = [${topicsTextList.join(',')}]
+      `export default class Lesson${num} {
+            static topics = [${topicsTextList.join(',')}]  
+            static practicing = []
         }`
     );
   }
