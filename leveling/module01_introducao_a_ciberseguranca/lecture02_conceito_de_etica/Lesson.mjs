@@ -1,6 +1,6 @@
 export default class Lesson {
+  static title = 'Aula 2 - Conceito de ética';
   static topics = [
-    'Aula 2 - Conceito de ética',
     'Introdução à ética',
     'Hackers éticos',
     'Como se tornar um hacker ético?',
