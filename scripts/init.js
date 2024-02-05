@@ -1,90 +1,40 @@
-especial_characters = {
-  ' ': '_',
-  ':': '',
-  '-+': '',
-  '_-': '',
-  '--': '',
-  '&': 'e',
-  ç: 'c',
-  á: 'a',
-  à: 'a',
-  ã: 'a',
-  í: 'i',
-  õ: 'o',
-  ô: 'o',
-  é: 'e',
-  '**': '',
+// script para gerar a estrutura de pastas e seus arquivos json.
+const { dataLetures, dataModule } = require('./data_modules');
+
+const formatTitle = (title) => {
+  title = title.toLowerCase();
+  title = title.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  title = title.replace(/\b(\d)\b/g, '0$1');
+  title = title.replace(' - ', ' ');
+  title = title.replace('/', ' ');
+  title = title.replace(/[,.-]/g, '');
+  title = title.replace('aula ', 'lecture');
+  title = title.replace(/\s/g, '_');
+  title = title.replace(/ç/g, 'c');
+  return title;
 };
 
-const formatTitle = (nameDir) => {
-  Object.keys(especial_characters).forEach((key) => {
-    nameDir = nameDir.replaceAll(key, especial_characters[key]);
-  });
+const titles = dataLetures
+  .filter((title) => title.includes('Aula'))
+  .map((title) => formatTitle(title));
 
-  nameDir = nameDir.toLocaleLowerCase();
-  return nameDir;
+titles.push(`lecture0${titles.length}_conclusao`);
+
+// fução mkdir que gera a estrutura de pastas
+const makeModule = () => {
+  console.log(`mkdir ${dataModule}`);
 };
 
-let titles = [
-  'Para começar',
-  'Aula 1 - O que é hacker e seus tipos',
-  'Praticando',
-  'Aula 2 - Conceito de ética',
-  'Praticando',
-  'Aula 3 - Profissões em cibersegurança',
-  'Praticando',
-  'Aula 4 - Conceitos iniciais',
-  'Praticando',
-  'Aula 5 - Como se proteger',
-  'Praticando',
-  'Recapitulando',
-  'Referências',
-  'Créditos',
-];
-
-const makeLectures = (title) => {
-  let [part01, part02] = title.split(' - ');
-  part01 = part01.match(/\d/g).toString().padStart(2, '0');
-  result = `lecture${part01} ${part02}`;
-
-  return result;
+const makeLectures = () => {
+  console.log(`touch ${titles.join('/notes.json ')}/notes.json`);
 };
 
-const newTitles = titles.reduce((newTitles, title) => {
-  if (title.includes('Aula') && title.includes('-')) {
-    title = makeLectures(title);
-    title = formatTitle(title);
-    newTitles.push(title);
-  }
+const commitLectures = (start, end, message) => {
+  console.log(`git add ${titles.join('/notes.json && git add ')}`);
+};
 
-  if (title === 'Recapitulando') {
-    title = 'references';
-    newTitles.push(title);
-  }
-
-  return newTitles;
-}, []);
-
-let moduleCourse = formatTitle('module01: **Introdução à Cibersegurança**');
-const mkdirModuleCourse = 'mkdir ' + moduleCourse + ' && cd ' + moduleCourse;
-const mkdir = mkdirModuleCourse + ' && mkdir ' + newTitles.join(' ');
-
-const touch = newTitles.reduce((touch, title, i) => {
-  touch += title + '/Lesson.mjs ';
-  return touch;
-}, 'touch ');
-
-const gitAdd = newTitles.reduce((acc, title, i) => {
-  acc.push('git add ' + title);
-  return acc;
-}, []).join(' && ');
-
-const gitCommit = newTitles.reduce((acc, title, i) => {
-  acc.push('git commit -m ' + title + "'");
-  return acc;
-}, []).join(' && ');
-
-// console.log(mkdir + ' && ' + touch);
-const gitAddCommit = gitAdd + " && " + gitCommit;
-console.log(gitAddCommit);
-// console.log(newTitles)
+makeModule();
+console.log('*'.repeat(100));
+makeLectures();
+console.log('*'.repeat(100));
+commitLectures(4, 5);

@@ -1,8 +1,9 @@
 function classMaker(linguage, num) {
-  num = num.toString().padStart(2, '0');
+  // num = num.toString().padStart(2, '0');
 
+  const title = document.querySelector('.fr-view');
   const topicsNodeList = document.querySelectorAll('strong');
-  const topicsTextList = [];
+  const topicsTextList = [title.innerText];
   topicsNodeList.forEach((node) => {
     if (node.innerHTML.includes('<br>')) {
       topicsTextList.push(`"${node.innerText}"`);
@@ -11,17 +12,20 @@ function classMaker(linguage, num) {
 
   if (linguage === 'py') {
     console.log(
-      `class Lesson${num}:
+      `class Lesson:
           topics = [${topicsTextList.join(',')}]
           practicing = []`
     );
   }
   if (linguage === 'mjs') {
     console.log(
-      `export default class Lesson${num} {
+      `export default class Lesson {
             static topics = [${topicsTextList.join(',')}]  
             static practicing = []
         }`
     );
+  }
+  if (linguage === "t") {
+    console.log(`${topicsNodeList.join(',')}`)
   }
 }
