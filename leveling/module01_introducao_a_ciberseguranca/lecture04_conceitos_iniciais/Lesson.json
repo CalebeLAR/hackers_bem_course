@@ -1,0 +1,67 @@
+{
+  "title": "Aula 4 - Conceitos iniciais",
+  "topics": [
+    "Vírus",
+    "Termos e conceitos sobre ameaças cibernéticas"
+  ],
+  "videos": [
+    {
+      "title": "Vírus, worms, phishing cavalo de troia | parte  01",
+      "topics": [
+        "Vírus - medidas preventivas",
+        "conclusão"
+      ],
+      "notes": [
+        "arquivo",
+        "macro",
+        "boot",
+        "worms",
+        "trojans",
+        "polimórficos"
+      ]
+    },
+    {
+      "title": "Aula 04 - conceitos iniciais | Parte II",
+      "topics": [
+        "Ameaças cibernéticas",
+        "SPAM - o que é",
+        "SPAM - exemplo",
+        "spyware - o que é",
+        "spyware - exemplo",
+        "Worms - o que é",
+        "Worms - exemplo",
+        "Phishing - o que é",
+        "Phishing - exemplo"
+      ]
+    },
+    {
+      "title": "Aula 04 - conceitos iniciais | Parte III",
+      "professor": "Raphael Nascimento",
+      "topics": [
+        {
+          "title": "Botnet - o que é",
+          "resume": "rede de computadores infectados com o objetivo de usar seus recursos para fins maliciosos"
+        },
+        {
+          "title": "Botnet - Exemplo",
+          "notes": [
+            "Mirai: milhoes de dispositivo usado para negar serviços"
+          ]
+        },
+        {
+          "title": "Rootkit - o que é",
+          "notes": [
+            "acessa o sistema operacional"
+          ]
+        },
+        {
+          "title": "",
+          "notes": [
+            ""
+          ]
+        }
+      ],
+      "practicing": ["66 % 2 de tres"]
+    }
+  ]
+}
