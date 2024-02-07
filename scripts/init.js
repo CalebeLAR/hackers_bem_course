@@ -22,7 +22,11 @@ titles.push(`lecture0${titles.length}_conclusao`);
 
 // fução mkdir que gera a estrutura de pastas
 const makeModule = () => {
-  console.log(`mkdir ${dataModule}`);
+  console.log(`mkdir ${formatTitle(dataModule)}`);
+};
+
+const makeDirs = () => {
+  console.log(`mkdir ${titles.join(' ')}`);
 };
 
 const makeLectures = () => {
@@ -33,8 +37,11 @@ const commitLectures = (start, end, message) => {
   console.log(`git add ${titles.join('/notes.json && git add ')}`);
 };
 
-makeModule();
-console.log('*'.repeat(100));
-makeLectures();
+
+// makeModule();
+// console.log('*'.repeat(100));
+// makeDirs()
+// console.log('*'.repeat(100));
+// makeLectures();
 console.log('*'.repeat(100));
 commitLectures(4, 5);

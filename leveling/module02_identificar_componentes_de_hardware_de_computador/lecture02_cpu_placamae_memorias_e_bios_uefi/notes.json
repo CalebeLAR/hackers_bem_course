@@ -1,0 +1,36 @@
+{
+    "title": "Aula 02 - Arquitetura de hardware: CPU, placa mãe, memória, BIOS",
+    "topics": [
+        "Componentes de um Computador",
+        "Processador",
+        "Principais fabricantes",
+        "Linha de Processadores",
+        "Cooler vs Processador",
+        "Cuidados",
+        "Componentes de um Computador",
+        "Placa-mãe",
+        "Componentes da Placa-mãe",
+        "Chipsets",
+        "Sockets",
+        "Formatos",
+        "Considerações",
+        "Memórias",
+        "Memórias ROM",
+        "Memórias RAM",
+        "Tipos de RAM",
+        "Memória de Notebook SODIMM",
+        "Memórias de Vídeo",
+        "Memórias de Vídeo",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "practcing": {
+        "soccore": "100% 3 de tres",
+        "immediate": 0
+    }
+}

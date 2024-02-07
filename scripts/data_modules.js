@@ -14,6 +14,6 @@ const dataLetures = [
   'Créditos',
 ];
 
-const dataModule = "modulo 2 intordu"
+const dataModule = "Module02_identificar_componentes_de_hardware_de_computador"
 
 module.exports = { dataLetures, dataModule };
