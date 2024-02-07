@@ -20,17 +20,16 @@
         "Tipos de RAM",
         "Memória de Notebook SODIMM",
         "Memórias de Vídeo",
-        "Memórias de Vídeo",
+        "O que é BIOS?",
+        "Processo de Inicialização",
+        "POST",
+        "SETUP UEFI/BIOS",
+        "SETUP BIOS",
+        "BOOT UEFI/BIOS",
         "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
     ],
     "practcing": {
         "soccore": "100% 3 de tres",
-        "immediate": 0
+        "immediate": "100% - 3 de 3 acertos"
     }
 }

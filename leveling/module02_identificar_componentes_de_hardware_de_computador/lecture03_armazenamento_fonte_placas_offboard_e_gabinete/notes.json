@@ -1,0 +1,38 @@
+{
+    "title": "Aula 3 - Armazenamento, Fonte, Placas Offboard e Gabinete",
+    "topics": [
+        "Dispositivos de armazenamento",
+        "HD - Disco Rígido",
+        "Conexão SATA (Serial Advanced Technology Attachment)",
+        "Mídias Óticas",
+        "Flash",
+        "SSD",
+        "Tipos de SSD",
+        "Diferença M.2 SATA vs NVMe",
+        "Tamanhos M.2",
+        "Fontes de Alimentaçãoo",
+        "Tipos de Conectores",
+        "Qual fonte eu preciso? ",
+        "Certificações de fonte",
+        "Identificar PFC",
+        "Placas Offboard",
+        "GPU – Placa de Vídeo",
+        "Intel ARC",
+        "AMD Radeon",
+        "NVIDIA",
+        "Placas de Som",
+        "Placas de Rede",
+        "Outras placas",
+        "Gabinete",
+        "Tamanhos",
+        "Gabinetes Customizados (Casemods)",
+        "O que preciso verificar?",
+        "Airflow",
+        "Estética vs Desempenho",
+        "Cabos Gabinete",
+    ],
+    "practcing": {
+        "soccore": "66% - 2 de 3 acertos",
+        "immediate": "33% - 1 de 3 acertos"
+    }
+}
