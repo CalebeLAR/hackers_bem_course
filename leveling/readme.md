@@ -11,7 +11,7 @@ Modulo01: **`Introdução à Cibersegurança`**
 Modulo02: **`Identificar componentes de hardware de um computador`**  
 ✅ Aula01: **Grandezas computacionais e sistema numéricos | Praticando**  
 ✅ Aula02: **CPU, Placa-mãe, Memórias e BIOS/UEFI | Praticando**  
-   Aula03: **Armazenamento, Fonte, Placas Offboard e Gabinete | Praticando**  
-   Aula04: **Instalação de SO | Praticando**  
-   Aula05: **Virtualização | Praticando**  
+✅ Aula03: **Armazenamento, Fonte, Placas Offboard e Gabinete | Praticando**  
+✅ Aula04: **Instalação de SO | Praticando**  
+✅ Aula05: **Virtualização | Praticando**  
 **Referências**  
