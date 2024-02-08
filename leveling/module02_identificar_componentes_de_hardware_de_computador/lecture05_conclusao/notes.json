@@ -1,0 +1,18 @@
+{
+    "title": "Aula 5 - Virtualização",
+    "topics": [
+        "Sistema Operacional",
+        "Virtualização",
+        "Virtualização Tipo 1",
+        "Servidores",
+        "Virtualização Tipo 1 x Tipo 2",
+        "Virtualização Tipo 2",
+        "Hypervisor Tipo 2",
+        "Hypervisor Tipo 2 - Programas",
+        "Hypervisor vs Container"
+    ],
+    "practcing": {
+        "soccore": "100% - 3 de 3 acertos",
+        "immediate": "100% - 3 de 3 acertos"
+    }
+}
