@@ -33,15 +33,22 @@ const makeLectures = () => {
   console.log(`touch ${titles.join('/notes.json ')}/notes.json`);
 };
 
-const commitLectures = (start, end, message) => {
+const gitAddLectures = (start, end) => {
   console.log(`git add ${titles.join('/notes.json && git add ')}`);
 };
 
+const gitCommitLectures = (start, end, message) => {
+  console.log(`git commit -m '`);
+};
 
-// makeModule();
-// console.log('*'.repeat(100));
-// makeDirs()
-// console.log('*'.repeat(100));
-// makeLectures();
+
+
+makeModule();
 console.log('*'.repeat(100));
-commitLectures(4, 5);
+makeDirs()
+console.log('*'.repeat(100));
+makeLectures();
+console.log('*'.repeat(100));
+gitAddLectures(4, 5);
+console.log('*'.repeat(100));
+gitCommitLectures(4,5);
