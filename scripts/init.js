@@ -1,54 +1,57 @@
 // script para gerar a estrutura de pastas e seus arquivos json.
 const { dataLetures, dataModule } = require('./data_modules');
-
-const formatTitle = (title) => {
-  title = title.toLowerCase();
-  title = title.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
-  title = title.replace(/\b(\d)\b/g, '0$1');
-  title = title.replace(' - ', ' ');
-  title = title.replace('/', ' ');
-  title = title.replace(/[,.-]/g, '');
-  title = title.replace('aula ', 'lecture');
-  title = title.replace(/\s/g, '_');
-  title = title.replace(/ç/g, 'c');
-  return title;
-};
+const { formatTitle } = require('./helpers');
 
 const titles = dataLetures
   .filter((title) => title.includes('Aula'))
   .map((title) => formatTitle(title));
 
-titles.push(`lecture0${titles.length}_conclusao`);
+// titles.push(`lecture0${titles.length}_conclusao`);
 
 // fução mkdir que gera a estrutura de pastas
-const makeModule = () => {
+const mkdirModule = () => {
   console.log(`mkdir ${formatTitle(dataModule)}`);
 };
 
-const makeDirs = () => {
+const mkdirLectures = () => {
   console.log(`mkdir ${titles.join(' ')}`);
 };
 
-const makeLectures = () => {
+const touchLectures = () => {
   console.log(`touch ${titles.join('/notes.json ')}/notes.json`);
 };
 
 const gitAddLectures = (start, end) => {
-  console.log(`git add ${titles.join('/notes.json && git add ')}`);
+  const slice = dataLetures.map(formatTitle).slice(start - 1, end);
+  console.log(`git add ${slice.join('/notes.json && git add ')}`);
 };
 
-const gitCommitLectures = (start, end, message) => {
-  console.log(`git commit -m '`);
+const gitCommitLectures = (start, end, message = '') => {
+  const slice = dataLetures.slice(start - 1, end);
+  try {
+    slice.forEach((lecture, i) => {
+      const titleLecture = formatTitle(lecture.split(' - ').at(1));
+      console.log(
+        `git commit -m '${message}.aula0${i + start}.${titleLecture}' &&`
+      );
+    });
+  } catch (e) {
+    console.log(`git commit -m '${message}.recaptulando'`);
+  }
 };
 
+// mkdirModule();
+// console.log('*'.repeat(100));
+// mkdirLectures();
+// console.log('*'.repeat(100));
+// touchLectures();
 
-
-makeModule();
-console.log('*'.repeat(100));
-makeDirs()
-console.log('*'.repeat(100));
-makeLectures();
-console.log('*'.repeat(100));
-gitAddLectures(4, 5);
-console.log('*'.repeat(100));
-gitCommitLectures(4,5);
+const commitMessage = 'hackers_do_bem.lv.module02';
+const start = 1
+const end = 4;
+const gitPush = (start, end, commitMessage) => {
+  gitAddLectures(start, end);
+  console.log(' && ')
+  gitCommitLectures(start, end, commitMessage);
+}
+gitPush(start, end, commitMessage)
