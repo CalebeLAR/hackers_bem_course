@@ -6,8 +6,6 @@ const titles = dataLetures
   .filter((title) => title.includes('Aula'))
   .map((title) => formatTitle(title));
 
-// titles.push(`lecture0${titles.length}_conclusao`);
-
 // fução mkdir que gera a estrutura de pastas
 const mkdirModule = () => {
   console.log(`mkdir ${formatTitle(dataModule)}`);
@@ -47,8 +45,8 @@ const gitCommitLectures = (start, end, message = '') => {
 // touchLectures();
 
 const commitMessage = 'hackers_do_bem.lv.module02';
-const start = 1
-const end = 4;
+const start = 4
+const end = 6;
 const gitPush = (start, end, commitMessage) => {
   gitAddLectures(start, end);
   console.log(' && ')
