@@ -18,10 +18,10 @@ Módulo02: **`Identificar componentes de hardware de um computador`**
 
 Módule03: **`Compreender Internet e Camada de acesso a rede`**  
 ✅ Aula01: **História da internet | Praticando**  
-Aula02: **Tipos de conexão | Praticando**  
-Aula03: **LAN_WAN topologias | Praticando**  
-Aula04: **Intranet/extranet | Praticando**  
-Aula05: **Ativos de rede | Praticando**  
+✅ Aula02: **Tipos de conexão | Praticando**  
+✅ Aula03: **LAN_WAN topologias | Praticando**  
+✅ Aula04: **Intranet/extranet | Praticando**  
+✅ Aula05: **Ativos de rede | Praticando**  
 Aula06: **Conectividade | Praticando**  
 Aula07: **Par metálico | Praticando**  
 Aula08: **Fibra | Praticando**  
