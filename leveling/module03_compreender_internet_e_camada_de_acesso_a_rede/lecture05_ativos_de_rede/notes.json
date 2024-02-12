@@ -1,0 +1,17 @@
+{
+    "title": "Aula 5 - Ativos de Rede",
+    "topics": [
+        "Ativos e Passivos de rede",
+        "Hub passivo e Hub ativo",
+        "Switch",
+        "Diferença entre Hub e Switch",
+        "Roteadores",
+        "Diferença entre Roteador e Switch",
+        "Placa de rede",
+        "Firewall"
+    ],
+    "practcing": {
+        "soccore": "100% - 3 de 3 acertos",
+        "immediate": "1 - alt tab"
+    }
+}
