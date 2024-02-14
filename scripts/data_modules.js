@@ -1,18 +1,17 @@
-const {formatTitle} = require("./helpers")
+const { formatTitle } = require('./helpers');
 
 const dataLetures = [
-  'Aula 1 - História da internet',
-  'Aula 2 - Tipos de conexão',
-  'Aula 3 - LAN_WAN topologias',
-  'Aula 4 - Intranet/extranet',
-  'Aula 5 - Ativos de rede',
-  'Aula 6 - Conectividade',
-  'Aula 7 - Par metálico',
-  'Aula 8 - Fibra',
-  'Aula 9 - Rede sem fio',
+  'Aula 1 - Camada de acesso',
+  'Aula 2 - Endereço MAC e tráfego de Dados',
+  'Aula 3 - Protocolo ARP',
+  'Aula 4 - Endereço IPV4',
+  'Aula 5 - IP Público, Privado e NAT',
+  'Aula 6 - Subrede',
   'Recapitulando',
 ];
 
-const dataModule = formatTitle('Módule03 - Compreender Internet e Camada de acesso a rede');
+const dataModule = formatTitle(
+  'Module04 - Compreender acesso a rede e camada de internet (IP)'
+);
 
 module.exports = { dataLetures, dataModule };
