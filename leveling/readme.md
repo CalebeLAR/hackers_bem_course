@@ -22,8 +22,17 @@ Módule03: **`Compreender Internet e Camada de acesso a rede`**
 ✅ Aula03: **LAN_WAN topologias | Praticando**  
 ✅ Aula04: **Intranet/extranet | Praticando**  
 ✅ Aula05: **Ativos de rede | Praticando**  
-Aula06: **Conectividade | Praticando**  
-Aula07: **Par metálico | Praticando**  
-Aula08: **Fibra | Praticando**  
-Aula09: **Rede sem fio | Praticando**  
+✅ Aula06: **Conectividade | Praticando**  
+✅ Aula07: **Par metálico | Praticando**  
+✅ Aula08: **Fibra | Praticando**  
+✅ Aula09: **Rede sem fio | Praticando**  
 **Recapitulando**  
+
+
+  <!-- 'Aula 1 - Camada de acesso | Praticando',
+  'Aula 2 - Endereço MAC e tráfego de Dados | Praticando',
+  'Aula 3 - Protocolo ARP | Praticando',
+  'Aula 4 - Endereço IPV4 | Praticando',
+  'Aula 5 - IP Público, Privado e NAT | Praticando',
+  'Aula 6 - Subrede | Praticando',
+  'Recapitulando', -->
