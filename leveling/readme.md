@@ -6,7 +6,7 @@ Módulo01: **`Introdução à Cibersegurança`**
 ✅ Aula03: **Profissões em cibersegurança | Praticando**  
 ✅ Aula04: **Conceitos iniciais | Praticando**  
 ✅ Aula05: **Como se proteger | Praticando**  
-**Recapitulando**  
+**Recapitulando**
 
 Módulo02: **`Identificar componentes de hardware de um computador`**  
 ✅ Aula01: **Grandezas computacionais e sistema numéricos | Praticando**  
@@ -14,9 +14,9 @@ Módulo02: **`Identificar componentes de hardware de um computador`**
 ✅ Aula03: **Armazenamento, Fonte, Placas Offboard e Gabinete | Praticando**  
 ✅ Aula04: **Instalação de SO | Praticando**  
 ✅ Aula05: **Virtualização | Praticando**  
-**Recapitulando**  
+**Recapitulando**
 
-Módule03: **`Compreender Internet e Camada de acesso a rede`**  
+Módulo03: **`Compreender Internet e Camada de acesso a rede`**  
 ✅ Aula01: **História da internet | Praticando**  
 ✅ Aula02: **Tipos de conexão | Praticando**  
 ✅ Aula03: **LAN_WAN topologias | Praticando**  
@@ -26,13 +26,13 @@ Módule03: **`Compreender Internet e Camada de acesso a rede`**
 ✅ Aula07: **Par metálico | Praticando**  
 ✅ Aula08: **Fibra | Praticando**  
 ✅ Aula09: **Rede sem fio | Praticando**  
-**Recapitulando**  
+**Recapitulando**
 
-
-  <!-- 'Aula 1 - Camada de acesso | Praticando',
-  'Aula 2 - Endereço MAC e tráfego de Dados | Praticando',
-  'Aula 3 - Protocolo ARP | Praticando',
-  'Aula 4 - Endereço IPV4 | Praticando',
-  'Aula 5 - IP Público, Privado e NAT | Praticando',
-  'Aula 6 - Subrede | Praticando',
-  'Recapitulando', -->
+Módulo04: **`Compreender acesso a rede e camada de internet (IP)`**  
+✅ Aula01: **Camada de acesso | Praticando**  
+✅ Aula02: **Endereço MAC e tráfego de Dados | Praticando**  
+✅ Aula03: **Protocolo ARP | Praticando**  
+Aula04: **Endereço IPV4 | Praticando**  
+Aula05: **IP Público, Privado e NAT | Praticando**  
+Aula06: **Subrede | Praticando**  
+**Recapitulando**
