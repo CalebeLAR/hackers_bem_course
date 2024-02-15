@@ -1,0 +1,25 @@
+{
+    "title": "Aula 1 - Camada de acesso",
+    "topics": [
+        "Processo de comunicação em redes",
+        "Emissor",
+        "Receptor",
+        "Mensagem",
+        "Canal",
+        "Código / protocolo",
+        "protocolos",
+        "Modelo de comunicação em camadas",
+        "Aplicação RDP HTTP SSH DNS TFTP SNMP",
+        "Transporte TCP UDP",
+        "Internet OSPF IPv4 IPv6",
+        "Acesso a rede ETHERNET ARP",
+        "Modelo OSI",
+        "Modelo TCP/IP",
+        "Padrões Ethernet"
+    ],
+    "practcing": {
+        "soccore": "100% - 3 de 3 acertos",
+        "immediate": "0 - alt tab",
+        "nota": ""
+    }
+}

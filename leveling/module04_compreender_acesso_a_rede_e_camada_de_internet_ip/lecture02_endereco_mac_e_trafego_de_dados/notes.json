@@ -1,0 +1,25 @@
+{
+    "title": "Aula 02 - Endereço MAC",
+    "topics": [
+        "Processo de comunicação em redes",
+        "Dispositivos que operam em cada camada",
+        "Endereços utilizados pelos dispositivos para operarem em cada camada",
+        "Mac Address(Media Access Control Address)",
+        "Identifique o fabricante pelo MAC Address",
+        "Comunicação na camada 2 depende do MAC Address",
+        "Tipos de endereços MAC (Unicast e Broadcast)",
+        "Tabela MAC em switchs",
+        "Dispositivos que operam em cada camada",
+        "Exemplo de comunicação com um HUB  - CAMADA 1",
+        "Dispositivos que operam na camada 2",
+        "Modelo OSI – Interação entre camadas",
+        "Camada de transporte na prática",
+        "Cenário para testes"
+        
+    ],
+    "practcing": {
+        "soccore": "100% - 3 de 3 acertos",
+        "immediate": "1 - alt tab",
+        "nota": ""
+    }
+}
