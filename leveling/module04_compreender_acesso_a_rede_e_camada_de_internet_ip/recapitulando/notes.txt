@@ -1,0 +1,95 @@
+Recapitulando
+Neste curso, você aprendeu sobre as camadas de acesso e o significado de endereço MAC e tráfego de dados. Aprendeu, também, sobre o Protocolo ARP e as características do endereço IPV4. 
+
+Além disso, conheceu as diferenças e características de IP público, privado e NAT e aprendeu o significado de subrede e como configurar em um sistema de redes.  
+
+
+Referências
+TECNOLOGIAS e protocolos de redes. Cisco,
+[s.d.
+]. Disponível em: https: //www.cisco.com/c/pt_br/tech/index.html Acesso em: set. 2023.
+
+Créditos
+SENAI – DEPARTAMENTO REGIONAL DE SÃO PAULO
+
+Ricardo Figueiredo Terra
+Diretor Regional
+
+Cassia Regina Souza da Cruz
+Gerente de Educação
+
+Luiz Carlos de Almeida Filho
+Diretor da Escola SENAI de Educação Online
+
+Adilson Moreira Damasceno
+Audrey Castellani Aldecoa
+Melissa Rocha Gabarrone
+Coordenação
+
+Paulo Sant`Anna
+Conteudista
+
+Adriana de Souza Farias
+Adriana Valéria Lucena
+Danielli Guirado
+Diego Rufino
+Fabiane Marques de Oliveira
+Gustavo Vilela Santos
+Jeferson Paiva
+Mait Paredes
+Mariana Almeida
+Sueli Diogo
+Escritório de Projetos e Processos
+
+Claudia Baroni Savini Ferreira
+Camila Zanella Lückmann
+João Francisco Correia de Souza
+Phillipe Rocca Datovo
+Annadeives Aparecida Conceição Pita
+Antonio Fernando Silveira Alves
+Camila do Espirito Santo Ornela Passos
+Carolina Salvino Correa
+Catarine Aurora Nogueira Pereira
+Clarice da Silva Elias
+Cristiane de Barros Rodrigues Favareto
+Cristina Yurie Takahashi
+Fernanda Pereira
+Flávia dos Santos Silveira
+Katya Martinez Almeida
+Marcelo Mauricio da Silva
+Poliana Maria Barbosa das Neves
+Pyetra Stephannie Rodrigues Costa
+Regina Kambara Hirata
+Simony Pimentel Santos do Nascimento
+Design de Aprendizagem
+
+Paula Cristina Bataglia Buratini
+Allan Marcondes de Oliveira
+Caio Marques Rodrigues
+Ezequiel Regino Monção
+Igor Freitas
+Isabella Ferreira
+Matheus Antônio de Guimarães Elegância
+Pedro Lehi Rodrigues Muniz
+Fabiano José de Moura
+Juliana Rumi Fujishima
+Luiz Sansone
+Noel Oliveira
+Design Digital
+
+Camila Ciarini Dias
+Getulio Azevedo Alves
+Alexandre Sinachi
+Ederson Guilherme Antonio Silva
+Rafael Marques Pimenta
+Tiago Florencio da Silva
+Ligia dos Santos Daghes
+Produção Audiovisual
+
+Rafael Santiago Apolinário
+Aldo Toma Junior
+Armando Victor Pereira
+Douglas Lacerda da Conceição
+Rolfi Cintas Gomes Luz
+Wesley José Pinto Silveira
+Desenvolvimento Tecnológico
