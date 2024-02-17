@@ -1,0 +1,21 @@
+{
+    "title": "Aula 05 - IP Público/Privado NAT",
+    "topics": [
+        "IP Público e Privado",
+        "Endereços locais para dispositivos conectados na LAN!",
+        "Redes locais domésticas:",
+        "Redes locais corporativas:",
+        "LANs = Endereços privados",
+        "WANs = Endereços públicos",
+        "Endereçamento IP Privado",
+        "NAT (Network Address Translation)",
+        "WAN = 1 IP público", 
+        "LAN = Inúmeros IPs privados",
+        "Conversão/ tradução de IPs Publicos e Privados"
+    ],
+    "practcing": {
+        "soccore": "100% - 3 de 3 acertos",
+        "alt-tab": 1,
+        "nota": ""
+    }
+}

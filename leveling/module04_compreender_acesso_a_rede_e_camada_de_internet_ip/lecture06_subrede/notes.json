@@ -1,0 +1,16 @@
+{
+    "title": "Aula 6 - Subrede",
+    "topics": [
+        "LAN com uma única rede IP",
+        "LAN pode ser dividida em 2 redes IP",
+        "192.168.0.0 Dividido em 2  subredes",
+        "Empresa em expansão: 3 subredes",
+        "LAN pode ser dividida em 4 redes IP",
+        "192.168.0.0 dividido em 4 subredes"
+    ],
+    "practcing": {
+        "soccore": "66% - 2 de 3 acertos",
+        "alt-tab": 1,
+        "nota": ""
+    }
+}
