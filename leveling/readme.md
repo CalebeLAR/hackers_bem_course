@@ -32,7 +32,7 @@ Módulo04: **`Compreender acesso a rede e camada de internet (IP)`**
 ✅ Aula01: **Camada de acesso | Praticando**  
 ✅ Aula02: **Endereço MAC e tráfego de Dados | Praticando**  
 ✅ Aula03: **Protocolo ARP | Praticando**  
-Aula04: **Endereço IPV4 | Praticando**  
-Aula05: **IP Público, Privado e NAT | Praticando**  
-Aula06: **Subrede | Praticando**  
+✅ Aula04: **Endereço IPV4 | Praticando**  
+✅ Aula05: **IP Público, Privado e NAT | Praticando**  
+✅ Aula06: **Subrede | Praticando**  
 **Recapitulando**
