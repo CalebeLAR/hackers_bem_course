@@ -7,6 +7,7 @@ const dataLetures = [
   'Aula 4 - Endereço IPV4',
   'Aula 5 - IP Público, Privado e NAT',
   'Aula 6 - Subrede',
+  'Aula 7 - Super rede',
   'Recapitulando',
 ];
 

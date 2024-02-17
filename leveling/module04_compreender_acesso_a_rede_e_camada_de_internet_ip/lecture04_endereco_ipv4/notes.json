@@ -1,0 +1,31 @@
+{
+    "title": "Aula 4 - Endereço IPV4",
+    "topics": [
+        "Estamos cada vez mais conectados!",
+        "Nós precisamos de IP!",
+        "Porque precisamos de endereços IP?",
+        "Internet Protocol versão 4",
+        "Padronização",
+        "IETF Internet Engineering TaskForce",
+        "Request for Comments (RFC)",
+        "IEEE Instituto de Engenheiros Eletrotécnicos e Eletrônicos",
+        "IANA Autoridade para Atribuição de Números da Internet",
+        "Octetos no endereçamento IPv4",
+        "Endereço IP e máscara de rede",
+        "O endereço IP e a mascara de rede determinam a qual rede o dispositivo pertence",
+        "A máscara de rede delimita a porção referente a rede",
+        "Onde começam e terminam as redes ",
+        "Endereço da rede = CEP da rua Endereço host = numero da casa",
+        "Posso usar qualquer numero de 0 a 255 com endereço?",
+        "Classes do endereçamento IP",
+        "Divisão do endereçamento IPv4 em classes",
+        "Classfull x Cassless",
+        "Utilizar endereço IP sem relação com o padrão da máscara",
+        "Utilizando diferentes máscaras de rede"
+    ],
+    "practcing": {
+        "soccore": "100% - 3 de 3 acertos",
+        "alt-tab": 1,
+        "nota": ""
+    }
+}

@@ -38,23 +38,26 @@ const gitCommitLectures = (start, end, message = '') => {
   }
 };
 
-mkdirModule();
-console.log('*'.repeat(100));
-mkdirLectures();
-console.log('*'.repeat(100));
-touchLectures();
+// mkdirModule();
+// console.log('*'.repeat(100));
+// mkdirLectures();
+// console.log('*'.repeat(100));
+// touchLectures();
 
-const commitMessage = 'hackers_do_bem.lv.module03';
-const start = 1
-const end = undefined;
-console.log('MODULO NUMERO MODULO NUMERO MODULO NUMERO MODULO NUMERO MODULO NUMERO');
+const commitMessage = 'hackers_do_bem.lv.module04';
+const start = 5;
+const end = 6;
+
+console.log(
+  'MODULO NUMERO MODULO NUMERO MODULO NUMERO MODULO NUMERO MODULO NUMERO'
+);
 const gitPush = (start, end, commitMessage) => {
   gitAddLectures(start, end);
-  console.log(' && ')
+  console.log(' && ');
   gitCommitLectures(start, end, commitMessage);
-}
-// gitPush(start, end, commitMessage)
+};
+gitPush(start, end, commitMessage);
 
 
-
-
+git add lecture05_ip_publico_privado_e_nat/notes.json && git add lecture06_subrede && git commit -m 'hackers_do_bem.lv.module04.aula05.ip_publico_privado_e_nat' && git commit -m 'hackers_do_bem.lv.module04.aula06.subrede'
+git commit -m 'hackers_do_bem.lv.module04.recap'
