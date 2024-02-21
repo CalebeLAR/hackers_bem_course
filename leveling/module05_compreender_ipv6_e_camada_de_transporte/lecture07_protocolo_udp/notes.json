@@ -1,0 +1,37 @@
+{
+    "title": "Aula 7 – Protocolo UDP",
+    "topics": [
+        "Características do protocolo UDP(user datagram protocol)",
+        "Não confiável",
+        "Não orientado a conexão",
+        "Não confirma o recebimento dos dados",
+        "Não reenvia dados perdidos",
+        "Não reorganiza os datagramas enviados",
+        "TCP/UDP",
+        "UDP envia mensagem sem garantia de entrega.",
+        "comunicação cliente - servidor DNS usa UDP",
+        "comunicação servidor DNS - servidor DNS usa TCP",
+        "Relativamente rápido;",
+        "Sem conexão",
+        "Sem garantia de entrega (menos sobrecarga)",
+        "Dados perdidos não são reenviados",
+        "Utilizado em:",
+        "Transmissões ao vivo ",
+        "Jogos on-line",
+        "Videoconferências",
+        "Unicast Multicast Broadcast",
+        "Cabeçalho fixo: 8 Bytes / 4 campos",
+        "Camada de transporte",
+        "Demonstração de funcionamento dos protocolos TCP/UDP",
+        "Cenário para testes",
+        "Teste 1: Comunicação com protocolo SSH",
+        "Conexão via Putty",
+        "Teste 2: Comunicação com protocolo TFTP",
+        "Backup das configurações do switch para o notebook"
+    ],
+    "practcing": {
+        "soccore": "100% - 3 de 3 acertos",
+        "alt-tab": 0,
+        "nota": ""
+    }
+}

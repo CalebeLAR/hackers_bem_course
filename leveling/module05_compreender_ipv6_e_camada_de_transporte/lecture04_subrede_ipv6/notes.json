@@ -1,0 +1,26 @@
+{
+    "title": "Aula 4 - Sub-rede IPv6",
+    "topics": [
+        "Entendendo a divisão em redes no IPv6",
+        "Subredes IPv6",
+        "Entendendo a divisão em redes no IPv6",
+        "Qual seria a próxima rede?",
+        "Desafio!",
+        "Qual o próximo endereço de rede IPv6?",
+        "Os computadores ao lado estão na mesma rede? Se comunicam?",
+        "Qual o primeiro e o ultimo endereço da rede 2001:f0f0: :/32?",
+        "Subredes IPv6!",
+        "Preciso quebrar a rede /64 em duas subredes /65",
+        "Preciso quebrar a rede /64 em 2 partes ",
+        "Vamos pegar mais um caractere “emprestado” da parte dos hosts!",
+        "Quais as SUBREDES possíveis com um prefixo /66?",
+        "Com 2 bits emprestados as redes avançam de 4 em 4",
+        "Quais as SUBREDES possíveis com um prefixo /67?",
+        "Com 3 bits emprestados as redes avançam de 2 em 2"
+    ],
+    "practcing": {
+        "soccore": "66% - 2 de 3 acertos",
+        "alt-tab": 0,
+        "nota": ""
+    }
+}

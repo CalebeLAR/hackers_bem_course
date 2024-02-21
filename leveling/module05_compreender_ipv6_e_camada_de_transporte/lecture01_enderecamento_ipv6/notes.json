@@ -1,0 +1,30 @@
+{
+    "title": "Aula 1 - Endereçamento IPv6 ",
+    "topics": [
+        "Por que precisamos de endereços de IP?",
+        "Estamos cada vez mais conectados!",
+        "Precisamos cada vez mais de IPs, mas...",
+        "Esgotamento global do IPv4",
+        "Fonte e distribuição mundial de endereços",
+        "Registros Regionais da Internet",
+        "RIR América Latina e Caribe",
+        "Provedores de acesso a internet",
+        "Endereços IPv6 Solução definitiva para a falta de endereços!",
+        "Características do IPv6",
+        "340 undecilhões de endereços",
+        "Estrutura do IPv6",
+        "Cabeçalho ipv6",
+        "informações da camada",
+        "wireShark",
+        "Características da camada de transporte",
+        "Cabeçalho IPv4: 12 campos fixos com total de 20 a 60 Bytes de tamanho",
+        "Cabeçalho IPv6: 8 campos fixos com total de 40 Bytes de tamanho",
+        "Cabeçalhos de extensão que não são processados por roteadores intermediários",
+        "Mais simples, mais flexível e mais eficiente"
+    ],
+    "practcing": {
+        "soccore": "100% - 3 de 3 acertos",
+        "alt-tab": 0,
+        "nota": ""
+    }
+}

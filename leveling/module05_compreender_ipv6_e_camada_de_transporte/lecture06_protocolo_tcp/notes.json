@@ -1,0 +1,18 @@
+{
+    "title": "Aula 6 - Protocolo TCP",
+    "topics": [
+        "TCP/UDP",
+        "PROTOCOLO TCP: RDP HTTP SSH",
+        "PROTOCOLO UDP: DNS TFTP SNMP",
+        "Funções do protocolo TCP",
+        "Segmentar dados para envio Remontar os dados segmentados  recebidos na ordem correta ",
+        "Confirma o recebimento dos segmentos Reenvia segmentos perdidos ",
+        "Estabelecimento de conexão TCP em 3 vias (Three-way Handshake)",
+        "Janelamento"
+    ],
+    "practcing": {
+        "soccore": "100% - 3 de 3 acertos",
+        "alt-tab": 0,
+        "nota": ""
+    }
+}

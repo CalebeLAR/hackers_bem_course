@@ -1,0 +1,22 @@
+{
+    "title": "Aula 5 - Camada transporte",
+    "topics": [
+        "Características da camada de transporte",
+        "Porque eu me interessaria em camada de transporte?",
+        "Identificar conexões indevidas",
+        "Configuração de firewall",
+        "Segurança em nuvem",
+        "Camada de transporte",
+        "Mantem e monitora várias comunicações entre aplicações",
+        "Identificação das aplicações por meio de portas",
+        "Segmenta dados e remonta segmentos no destino",
+        "Multiplexação, varios aplicativos usam a rede ao mesmo tempo",
+        "PROTOCOLO UDP (VOIP)",
+        "PROTOCOLO TCP (E-MAIL)"
+    ],
+    "practcing": {
+        "soccore": "100% - 3 de 3 acertos",
+        "alt-tab": 0,
+        "nota": ""
+    }
+}

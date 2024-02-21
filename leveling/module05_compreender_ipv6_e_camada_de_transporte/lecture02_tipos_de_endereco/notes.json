@@ -1,0 +1,19 @@
+{
+    "title": "Aula 2 - Tipos de endereço",
+    "topics": [
+        "Tipos de endereços IPv6",
+        "GLOBAL UNICAST ADDRESS - 2000: :/3 - Semelhante ao IPv4 Publico",
+        "UNIQUE LOCAL ADDRESS - FC00: :/7 - Semelhante ao IPv4 Privado",
+        "LINK LOCAL - FE80: :/3",
+        "LOOPBACK ::1 Para auto teste ou acesso a um serviço localmente",
+        "Utilizando IPv6 na prática",
+        "Prática com comunicação utilizando IPv6 link local",
+        "Prática com comunicação utilizando IPv6 GUA",
+        "Prática com demonstração do IPv6 Multicast"
+    ],
+    "practcing": {
+        "soccore": "66% - 2 de 3 acertos",
+        "alt-tab": 1,
+        "nota": "slides incompletos"
+    }
+}

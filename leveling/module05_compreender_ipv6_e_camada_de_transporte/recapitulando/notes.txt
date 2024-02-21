@@ -1,0 +1,107 @@
+Recapitulando
+
+Neste curso, você aprendeu o que são endereços IP e qual a funcionalidade deles no
+dia-a-dia. Conheceu as características e diferenças entre o IPv4 e o IPV6 e quais
+são os tipos de endereços utilizados para realizar a comunicação nesse método.
+
+Além disso, aprendeu como realizar abreviações no IPv6 para facilitar a
+praticidade no processo de trabalho, a sub-rede e o que são as camadas de
+transporte. Por fim, conheceu as características e diferenças entre o protocolo 
+TCP e o protocolo UDP.
+
+
+Referências
+
+IPv6. Disponível em: https://ipv6.br/. Acesso em: 1º ago. 2023.
+
+IPv6. Disponível em: https://www.lacnic.net/5527/3/lacnic/. Acesso em: 1º ago. 2023.
+CAMADA de transporte e TCP/IP.
+Disponível em: https://www.dcce.ibilce.unesp.br/~aleardo/cursos/fsc/cap08.php.
+Acesso em:1º ago. 2023.
+
+
+Créditos
+
+
+SENAI – DEPARTAMENTO REGIONAL DE SÃO PAULO
+Ricardo Figueiredo Terra
+Diretor Regional
+
+Cassia Regina Souza da Cruz
+Gerente de Educação
+
+Luiz Carlos de Almeida Filho
+Diretor da Escola SENAI de Educação Online
+
+Adilson Moreira Damasceno
+Audrey Castellani Aldecoa
+Melissa Rocha Gabarrone
+Coordenação
+
+Paulo Sant`Anna
+Conteudista
+
+Adriana de Souza Farias
+Adriana Valéria Lucena
+Danielli Guirado
+Diego Rufino
+Fabiane Marques de Oliveira
+Gustavo Vilela Santos
+Jeferson Paiva
+Mait Paredes
+Mariana Almeida
+Sueli Diogo
+Escritório de Projetos e Processos
+
+Claudia Baroni Savini Ferreira
+Camila Zanella Lückmann
+João Francisco Correia de Souza
+Phillipe Rocca Datovo
+Annadeives Aparecida Conceição Pita
+Antonio Fernando Silveira Alves
+Camila do Espirito Santo Ornela Passos
+Carolina Salvino Correa
+Catarine Aurora Nogueira Pereira
+Clarice da Silva Elias
+Cristiane de Barros Rodrigues Favareto
+Cristina Yurie Takahashi
+Fernanda Pereira
+Flávia dos Santos Silveira
+Katya Martinez Almeida
+Marcelo Mauricio da Silva
+Poliana Maria Barbosa das Neves
+Pyetra Stephannie Rodrigues Costa
+Regina Kambara Hirata
+Simony Pimentel Santos do Nascimento
+Design de Aprendizagem
+
+Paula Cristina Bataglia Buratini
+Allan Marcondes de Oliveira
+Caio Marques Rodrigues
+Ezequiel Regino Monção
+Igor Freitas
+Isabella Ferreira
+Matheus Antônio de Guimarães Elegância
+Pedro Lehi Rodrigues Muniz
+Fabiano José de Moura
+Juliana Rumi Fujishima
+Luiz Sansone
+Noel Oliveira
+Design Digital
+
+Camila Ciarini Dias
+Getulio Azevedo Alves
+Alexandre Sinachi
+Ederson Guilherme Antonio Silva
+Rafael Marques Pimenta
+Tiago Florencio da Silva
+Ligia dos Santos Daghes
+Produção Audiovisual
+
+Rafael Santiago Apolinário
+Aldo Toma Junior
+Armando Victor Pereira
+Douglas Lacerda da Conceição
+Rolfi Cintas Gomes Luz
+Wesley José Pinto Silveira
+Desenvolvimento Tecnológico
