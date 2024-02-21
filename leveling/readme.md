@@ -36,3 +36,13 @@ Módulo04: **`Compreender acesso a rede e camada de internet (IP)`**
 ✅ Aula05: **IP Público, Privado e NAT | Praticando**  
 ✅ Aula06: **Subrede | Praticando**  
 **Recapitulando**
+
+Módulo 5: **`Compreender IPV6 e Camada de Transporte`**  
+✅ Aula01: **Endereçamento IPv6 | Praticando**  
+✅ Aula02: **Tipos de endereço | Praticando**  
+✅ Aula03: **Abreviações IPv6 | Praticando**  
+✅ Aula04: **Sub-rede IPv6 | Praticando**  
+✅ Aula05: **Camada transporte | Praticando**  
+✅ Aula06: **Protocolo TCP | Praticando**  
+✅ Aula07: **Protocolo UDP | Praticando**  
+**Recapitulando**  
