@@ -1,0 +1,21 @@
+{
+    "title": "Aula 4 - DHCP",
+    "topics": [
+        "Introdução",
+        "Camada de Aplicação - O que é DHCP?",
+        "atribuição dinâmica de endereços de IP",
+        "configuração de máscaras de sub-rede",
+        "gerenciamento da alocação de endereços IP",
+        "DHCP - Como funciona?",
+        "Servidor DHCP escolhe um endereço de uma “pool” disponível",
+        "Período de concessão de IP pelo DHCP",
+        "Servidor DHCP armazena as informações de configuração em um banco de dados",
+        "Portas de requisição e resposta 67 e 68",
+        "Resumo"
+    ],
+    "practcing": {
+        "soccore": "66% - 2 de 3 acertos",
+        "alt-tab": 0,
+        "nota": ""
+    }
+}

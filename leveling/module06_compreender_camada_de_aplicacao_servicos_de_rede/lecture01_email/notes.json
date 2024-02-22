@@ -1,0 +1,19 @@
+{
+    "title": "Aula 1 - E-mail",
+    "topics": [
+        "Compreender Camada de Aplicação Serviços de Rede.",
+        "Introdução",
+        "Camada de Aplicação - E-mail",
+        "E-mail - SMTP (Simple Mail Transfer Protocol)",
+        "E-mail - SMTP",
+        "E-mail - POP/POP3 (Post Office Protocol 3)",
+        "E-mail - IMAP",
+        "E-mail - IMAP x POP3",
+        "Resumo"
+    ],
+    "practcing": {
+        "soccore": "66% - 2 de 3 acertos",
+        "alt-tab": 0,
+        "nota": ""
+    }
+}

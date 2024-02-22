@@ -1,0 +1,21 @@
+{
+    "title": "Aula 03 - DNS",
+    "topics": [
+        "Introdução",
+        "O DNS foi criado em 1983 pelo americano Paul Mockapetris.",
+        "Camada de Aplicação - O que é DNS?",
+        "DNS - Como funciona?",
+        "Recursor de DNS",
+        "Servidor Raiz",
+        "Nameserver TLD",
+        "Servidor de DNS autoritativo",
+        "DNS - Processo oito etapas",
+        "DNS - Cache",
+        "Resumo"
+    ],
+    "practcing": {
+        "soccore": "66% - 2 de 3 acertos",
+        "alt-tab": 0,
+        "nota": ""
+    }
+}

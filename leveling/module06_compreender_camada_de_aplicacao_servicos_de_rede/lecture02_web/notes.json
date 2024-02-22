@@ -1,0 +1,21 @@
+{
+    "title": "Aula 02 - Web (HTTP / HTTPS)",
+    "topics": [
+        "Introdução",
+        "Camada de Aplicação - Estrutura Web",
+        "E-mail - Métodos HTTP",
+        "GET - Solicitação de dados feita pelo cliente.",
+        "POST - Carrega arquivos de dados de um servidor da web, como dados de formulário.",
+        "PUT - Carrega recursos ou conteúdos, como imagem por exemplo",
+        "E-mail - HTTPS",
+        "HTTP utiliza das porta 80 ou 8080",
+        "HTTPS utiliza das portas 443 ou 8443.",
+        "E-mail - HTTP x HTTPS",
+        "Resumo"
+    ],
+    "practcing": {
+        "soccore": "100% - 3 de 3 acertos",
+        "alt-tab": 0,
+        "nota": ""
+    }
+}
