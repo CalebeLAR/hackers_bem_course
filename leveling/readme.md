@@ -37,7 +37,7 @@ Módulo04: **`Compreender acesso a rede e camada de internet (IP)`**
 ✅ Aula06: **Subrede | Praticando**  
 **Recapitulando**
 
-Módulo 5: **`Compreender IPV6 e Camada de Transporte`**  
+Módulo05: **`Compreender IPV6 e Camada de Transporte`**  
 ✅ Aula01: **Endereçamento IPv6 | Praticando**  
 ✅ Aula02: **Tipos de endereço | Praticando**  
 ✅ Aula03: **Abreviações IPv6 | Praticando**  
@@ -45,4 +45,15 @@ Módulo 5: **`Compreender IPV6 e Camada de Transporte`**
 ✅ Aula05: **Camada transporte | Praticando**  
 ✅ Aula06: **Protocolo TCP | Praticando**  
 ✅ Aula07: **Protocolo UDP | Praticando**  
-**Recapitulando**  
+**Recapitulando**   
+
+Módulo06: **`Compreender Camada de Aplicação Serviços de Rede`**
+✅ Aula01: **E-mail | Praticando**
+✅ Aula02: **Web | Praticando**
+✅ Aula03: **DNS | Praticando**
+✅ Aula04: **DHCP | Praticando**
+Aula05: **Acessos remotos | Praticando**
+Aula06: **Transferência de arquivo | Praticando**
+Aula07: **Controle de usuário | Praticando**
+Aula08: **SNMP, NTP e SYSLOG | Praticando**
+**Recapitulando**
