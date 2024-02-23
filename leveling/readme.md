@@ -47,13 +47,13 @@ Módulo05: **`Compreender IPV6 e Camada de Transporte`**
 ✅ Aula07: **Protocolo UDP | Praticando**  
 **Recapitulando**   
 
-Módulo06: **`Compreender Camada de Aplicação Serviços de Rede`**
-✅ Aula01: **E-mail | Praticando**
-✅ Aula02: **Web | Praticando**
-✅ Aula03: **DNS | Praticando**
-✅ Aula04: **DHCP | Praticando**
-Aula05: **Acessos remotos | Praticando**
-Aula06: **Transferência de arquivo | Praticando**
-Aula07: **Controle de usuário | Praticando**
-Aula08: **SNMP, NTP e SYSLOG | Praticando**
-**Recapitulando**
+Módulo06: **`Compreender Camada de Aplicação Serviços de Rede`**  
+✅ Aula01: **E-mail | Praticando**  
+✅ Aula02: **Web | Praticando**  
+✅ Aula03: **DNS | Praticando**  
+✅ Aula04: **DHCP | Praticando**  
+✅ Aula05: **Acessos remotos | Praticando**  
+✅ Aula06: **Transferência de arquivo | Praticando**  
+Aula07: **Controle de usuário | Praticando**  
+Aula08: **SNMP, NTP e SYSLOG | Praticando**  
+**Recapitulando**  
