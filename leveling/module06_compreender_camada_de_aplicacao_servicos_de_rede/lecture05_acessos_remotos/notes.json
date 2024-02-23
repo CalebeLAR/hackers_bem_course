@@ -1,0 +1,31 @@
+{
+    "title": "Aula 5 - Acessos remotos",
+    "topics": [
+        "Introdução",
+        "Ideias iniciais de acesso remoto começaram na década de 80.",
+        "PC Anywhere",
+        "Camada de Aplicação - O que é Acesso Remoto?",
+        "Acesso Remoto - Como funciona?",
+        "Acesso Remoto - Tipos de Acesso Remoto",
+        "Conexão de Área de Trabalho Remota",
+        "Conexão via Virtual Private Network - VPN",
+        "Tipos de Acesso Remoto - Conexão de Área de Trabalho Remota",
+        "Tipos de Acesso Remoto - Conexão via Virtual Private Network - VPN",
+        "Acesso Remoto - Protocolos de Acesso",
+        "FTP",
+        "RCP",
+        "Telnet",
+        "Rlogin",
+        "RSH",
+        "SSH",
+        "Protocolos de Acesso - Telnet (Teletype Network)",
+        "Protocolos de Acesso - SSH (Secure Socket Shell)",
+        "Protocolos de Acesso - Aplicativos (KHelpDesk)",
+        "Resumo"
+    ],
+    "practcing": {
+        "soccore": "33% - 1 de 3 acertos",
+        "alt-tab": 1,
+        "note": "terceira questão estava fora do conteúdo"
+    }
+}
