@@ -1,0 +1,32 @@
+{
+    "title": "Aula 07 – Controle de Usuários",
+    "topics": [
+        "Introdução",
+        "Controle de Usuários – O que é LDAP?",
+        "Lightweight Directory Access Protoco",
+        "Controle de Usuários – Estrutura LDAP e Active Directory",
+        "Camada de Aplicação – Etapas da consulta LDAP",
+        "Camada de Aplicação – RADIUS",
+        "Remote Authentication Dial in User Service (RADIUS)",
+        "Controle de Usuários – Como funciona o RADIUS?",
+        "Controle de Usuários – Autenticação e Autorização",
+        "Resumo"
+    ],
+    "practcing": {
+        "question1": [
+            "1. Qual é a principal função do LDAP (Lightweight Directory Access Protocol) em sistemas de controle de usuários?",
+            "Autenticação e autorização "
+        ],
+        "question2": [
+            "2. O que o Active Directory é usado principalmente para em ambientes Windows?",
+            "Controle de usuários e recursos de rede "
+        ],
+        "question3": [
+            "O que significa RADIUS (Remote Authentication Dial-In User Service) no contexto de controle de acesso? ",
+            "Um método de autenticação remota "
+        ],
+        "soccore": "66% - 2 de 3 acertos",
+        "alt-tab": 0,
+        "note": ""
+    }
+}

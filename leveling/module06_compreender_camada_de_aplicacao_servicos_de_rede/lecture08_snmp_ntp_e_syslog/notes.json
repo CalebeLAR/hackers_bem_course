@@ -1,0 +1,30 @@
+{
+    "title": "Aula 08 – Gerenciamento e Monitoramento de dispositivos",
+    "topics": [
+        "Introdução",
+        "Gerenciamento e monitoramento de dispositivos – O que é SNMP?",
+        "(SNMP) Simple Network Management Protocol",
+        "Onde usamos o SNMP e qual sua função?",
+        "Gerenciamento e monitoramento de dispositivos – O que é NTP?",
+        "(NTP)  Network Time Protoco",
+        "Gerenciamento e monitoramento de dispositivos – O que é SYSLOG?",
+        "Resumo"
+    ],
+    "practcing": {
+        "question1": [
+            "1. Qual é o objetivo principal do protocolo SNMP (Simple Network Management Protocol) em uma rede de computadores? ",
+            "Coletar e gerenciar informações sobre dispositivos de rede. "
+        ],
+        "question2": [
+            "2. O que significa a sigla NTP no contexto de redes de computadores?",
+            "Network Time Protocol"
+        ],
+        "question3": [
+            "Qual é a principal função do protocolo Syslog?",
+            "Coletar informações de gerenciamento de rede. "
+        ],
+        "soccore": "100% - 3 de 3 acertos",
+        "alt-tab": 1,
+        "note": ""
+    }
+}

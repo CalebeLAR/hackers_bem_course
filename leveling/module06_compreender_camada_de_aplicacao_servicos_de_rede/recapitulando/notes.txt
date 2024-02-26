@@ -1,0 +1,100 @@
+Recapitulando
+Neste curso, você aprendeu a origem e o funcionamentos do e-mail e como 
+foi a evolução da web com o passar do tempo até chegar aos métodos e protocolos HTTPS. Você entendeu também como funciona o DNS em um endereço de IP, bem como o conceito e as atribuições
+do DHCP.
+
+Além disso, estudou o surgimento e as características do acesso remoto e aprendeu as 
+transferências de arquivos e os principais protocolos utilizados. Por fim, conheceu o
+conceito de controle de usuários de rede e os principais protocolos 
+utilizados para garantir a segurança e o desempenho de um sistema de rede.
+
+Referências
+PETERSON, L. L.; DAVIE, B. S. Redes de computadores: uma abordagem de sistemas. 3. ed. São Paulo: Editora Campus (Elsevier), 2004.
+
+
+Créditos
+SENAI – DEPARTAMENTO REGIONAL DE SÃO PAULO
+
+Ricardo Figueiredo Terra
+Diretor Regional
+
+Cassia Regina Souza da Cruz
+Gerente de Educação
+
+Luiz Carlos de Almeida Filho
+Diretor da Escola SENAI de Educação Online
+
+Adilson Moreira Damasceno
+Audrey Castellani Aldecoa
+Melissa Rocha Gabarrone
+Coordenação
+
+Igor Rodrigues
+Conteudista
+
+Adriana de Souza Farias
+Adriana Valéria Lucena
+Danielli Guirado
+Diego Rufino
+Fabiane Marques de Oliveira
+Gustavo Vilela Santos
+Jeferson Paiva
+Mait Paredes
+Mariana Almeida
+Sueli Diogo
+Escritório de Projetos e Processos
+
+Claudia Baroni Savini Ferreira
+Camila Zanella Lückmann
+João Francisco Correia de Souza
+Phillipe Rocca Datovo
+Annadeives Aparecida Conceição Pita
+Antonio Fernando Silveira Alves
+Camila do Espirito Santo Ornela Passos
+Carolina Salvino Correa
+Catarine Aurora Nogueira Pereira
+Clarice da Silva Elias
+Cristiane de Barros Rodrigues Favareto
+Cristina Yurie Takahashi
+Fernanda Pereira
+Flávia dos Santos Silveira
+Katya Martinez Almeida
+Marcelo Mauricio da Silva
+Poliana Maria Barbosa das Neves
+Pyetra Stephannie Rodrigues Costa
+Regina Kambara Hirata
+Simony Pimentel Santos do Nascimento
+Design de Aprendizagem
+
+Paula Cristina Bataglia Buratini
+Allan Marcondes de Oliveira
+Caio Marques Rodrigues
+Ezequiel Regino Monção
+Igor Freitas
+Isabella Ferreira
+Matheus Antônio de Guimarães Elegância
+Pedro Lehi Rodrigues Muniz
+Fabiano José de Moura
+Juliana Rumi Fujishima
+Luiz Sansone
+Noel Oliveira
+Design Digital
+
+Camila Ciarini Dias
+Getulio Azevedo Alves
+Alexandre Sinachi
+Ederson Guilherme Antonio Silva
+Rafael Marques Pimenta
+Tiago Florencio da Silva
+Ligia dos Santos Daghes
+Produção Audiovisual
+
+Rafael Santiago Apolinário
+Aldo Toma Junior
+Armando Victor Pereira
+Douglas Lacerda da Conceição
+Rolfi Cintas Gomes Luz
+Wesley José Pinto Silveira
+Desenvolvimento Tecnológico
+
+
