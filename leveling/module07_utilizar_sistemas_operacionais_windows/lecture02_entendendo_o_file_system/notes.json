@@ -1,0 +1,39 @@
+{
+    "title": "Aula 2 - Entendendo o file system",
+    "textbook": [
+        "Aula 04 Sistema de Arquivos"
+    ],
+    "topics": [
+        "Sistema de arquivos",
+        "Sistema de arquivos (File System)?",
+        "E como ele funciona?",
+        "Clusters? Setores?",
+        "Tipos de Sistema de Arquivos",
+        "FAT16 - File Allocation Table 16 Bit",
+        "FAT32 - File Allocation Table 32 Bit",
+        "exFAT - extensible File Allocation Table",
+        "NTFS - New Technology File",
+        "ReFS - Resilient File System",
+        "Recursos de Sistema de arquivos - FAT32",
+        "Recursos de Sistema de arquivos - NTFS",
+        "Recursos de Sistema de arquivos - ReFS",
+        "Conclusão"
+    ],
+    "practcing": {
+        "question1": [
+            "1. O que é um Sistema de Arquivos (File System)?",
+            "Uma forma de organizar e gerenciar dados em um dispositivo de armazenamento, como discos rígidos ou pen drives."
+        ],
+        "question2": [
+            "2. Qual sistema de arquivos é amplamente utilizado no Windows e oferece suporte a arquivos grandes e partições de grande capacidade?",
+            "NTFS"
+        ],
+        "question3": [
+            "3. O que significa 'cluster' no contexto de sistemas de arquivos?",
+            "Um bloco de alocação mínima em um sistema de arquivos, usados para armazenar dados. "
+        ],
+        "soccore": "100% - 3 de 3 acertos",
+        "alt-tab": 0,
+        "note": ""
+    }
+}

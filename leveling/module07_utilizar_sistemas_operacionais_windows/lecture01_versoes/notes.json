@@ -1,0 +1,54 @@
+{
+    "title": "Aula 1 - Versões",
+    "textbook": [
+        "Aula 1 - Versões",
+        "Aula 2 - Versões Servidores",
+        "Aula 3 - Licenciamento"
+    ],
+    "topics": [
+        "Introdução",
+        "Versões - Windows 1.0",
+        "Versões - Windows 2.0",
+        "Versões - Windows 3.0",
+        "Versões - Windows 3.1/3.11 Ctrl+C / Ctrl+V",
+        "Versões - Windows95 Botão Iniciar! Internet Explorer",
+        "Versões - Windows98 Mais otimizado para usar Internet",
+        "Versões - Windows ME (Millenium Editon)  em 2000",
+        "Versões - Windows XP Nova Interface Gráfica: Mais cores",
+        "Versões - Windows Vista Nova Interface (Aero): Janelas",
+        "Versões - Windows 7",
+        "Versões - Windows 8 Nova interface (Metro)",
+        "Versões - Windows 8.1 2013",
+        "Versões - Windows 10 Edge",
+        "Versões - Windows 11",
+        "Resumo",
+        "Aula 02 - Versões Servidores",
+        "Versões - Servidore",
+        "Aula 03 - Licenciamento",
+        "O que é licenciamento?",
+        "Licenciamento Microsoft",
+        "Windows 3.11 até Windows ME (Através de chaves de produto)",
+        "Windows XP até atualmente",
+        "OEM (Original Equipament Manufacturer)",
+        "FPP (Full Packaged Product)",
+        "ESD (Eletronic Software Distribution)",
+        "Resumo"
+    ],
+    "practcing": {
+        "question1": [
+            "1. Quem foram os criadores da Microsoft? ",
+            "Bill Gates e Paul Allen "
+        ],
+        "question2": [
+            "2. Qual versão do Windows foi muito criticada por suas falhas de estabilidade e segurança?",
+            "Windows ME"
+        ],
+        "question3": [
+            "3. Qual sistema operacional Windows trouxe a assistente virtual Cortana?",
+            "Windows 10"
+        ],
+        "soccore": "100% - 3 de 3 acertos",
+        "alt-tab": 2,
+        "note": "A segunda parte da video aula, são as aulas 2 e 3 da apostila"
+    }
+}
