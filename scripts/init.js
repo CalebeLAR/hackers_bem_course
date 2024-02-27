@@ -3,7 +3,7 @@ const { dataLetures, dataModule } = require('./data_modules');
 const { formatTitle } = require('./helpers');
 
 const titles = dataLetures
-  .filter((title) => title.includes('Aula'))
+  .filter((title) => title.includes('Aula') || title.includes('Recapitulando'))
   .map((title) => formatTitle(title));
 
 // fução mkdir que gera a estrutura de pastas
@@ -44,9 +44,9 @@ const gitCommitLectures = (start, end, message = '') => {
 // console.log('*'.repeat(100));
 // touchLectures();
 
-const commitMessage = 'hackers_do_bem.lv.module04';
-const start = 5;
-const end = 6;
+const commitMessage = 'hackers_do_bem.nivelamento.module05';
+const start = 1;
+const end = 3;
 
 console.log(
   'MODULO NUMERO MODULO NUMERO MODULO NUMERO MODULO NUMERO MODULO NUMERO'
@@ -56,8 +56,7 @@ const gitPush = (start, end, commitMessage) => {
   console.log(' && ');
   gitCommitLectures(start, end, commitMessage);
 };
+
 gitPush(start, end, commitMessage);
 
 
-git add lecture05_ip_publico_privado_e_nat/notes.json && git add lecture06_subrede && git commit -m 'hackers_do_bem.lv.module04.aula05.ip_publico_privado_e_nat' && git commit -m 'hackers_do_bem.lv.module04.aula06.subrede'
-git commit -m 'hackers_do_bem.lv.module04.recap'
