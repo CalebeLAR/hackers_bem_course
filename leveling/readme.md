@@ -56,4 +56,14 @@ Módulo06: **`Compreender Camada de Aplicação Serviços de Rede`**
 ✅ Aula06: **Transferência de arquivo | Praticando**  
 ✅ Aula07: **Controle de usuário | Praticando**  
 ✅ Aula08: **SNMP, NTP e SYSLOG | Praticando**  
+**Recapitulando**   
+
+Módulo07: **`Utilizar sistemas operacionais - Windows`**  
+✅ Aula01: **Versões | Praticando**  
+✅ Aula02: **Entendendo o file system | Praticando**  
+✅ Aula03: **Estrutura dos diretórios | Praticando**  
+Aula04: **Criar, remover, apagar | Praticando**  
+Aula05: **Criação de usuários e permissões | Praticando**  
+Aula06: **Backup pontos e restauração registro | Praticando**  
+Aula07: **Instalações de programas pacotes drivers | Praticando**  
 **Recapitulando**  
