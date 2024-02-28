@@ -1,0 +1,24 @@
+{
+    "title": "Aula 6 - Backup pontos e restauração registro",
+    "textbook": [
+        "Aula 06 – Backup"
+    ],
+    "topics": [
+        "Backup",
+        "Tipos de Backup",
+        "Ponto de Restauração",
+        "Pontos de restauração e registros",
+        "SFC/DISM/CHKDSK",
+        "Registro",
+        "modificar o relógio do sistema com ShowSecondsInSystemClock"
+    ],
+    "videos": [
+        "Aula 6 - Backup Pontos de Restauração Registro | Parte 1",
+        "Aula 6 - Backup Pontos de Restauração Registro | Parte 2"
+    ],
+    "practcing": {
+        "soccore": "100% - 3 de 3 acertos",
+        "alt-tab": 0,
+        "note": ""
+    }
+}

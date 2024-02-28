@@ -1,0 +1,42 @@
+{
+    "title": "Aula 4 - Criar, remover, apagar",
+    "textbook": [
+        "Aula 05 - Manipulação modo texto"
+    ],
+    "topics": [
+        "Manipulação de arquivos",
+        "Comandos em modo texto",
+        "Comandos Windows em modo Texto – Parte 1",
+        "1. cd ou chdir – Change Directory – Mudar de Diretório (pasta)",
+        "2. dir – lista os arquivos do diretório",
+        "3. cls – Clear Screen – limpar a tela",
+        "4. md ou mkdir – make directory – criar diretório",
+        "5. ren ou rename – renomear arquivo ou diretório",
+        "6. rmdir – remove directory – apaga diretório ",
+        "7. del – delete ou erase – apaga arquivos",
+        "8. copy – copia para um diretório",
+        "Comandos Windows em modo Texto – Parte 2",
+        "1. Type exibe conteúdo do arquivo",
+        "• type con – console – texto digitado no prompt de comando",
+        "• type > - redirecionador (sobrescreve os dados antigos)",
+        "• type >> - Redirecionador (adiciona mais dados ao final do arquivo)",
+        "2. Ipconfig – Mostra Configurações IP",
+        "3. Ping – Teste de conectividade ",
+        "4. Tracert – Diagnóstico de caminho percorrido pela rede",
+        "5. Systeminfo – Informações do Sistema (Mem., CPU, Versão)",
+        "6. Chkdsk – verificação e reparo do disco",
+        "7. Sfc – verifica e repara arquivos de sistemas protegidos",
+        "Atalhos do Windows"
+    ],
+    "videos": [
+        "Aula 4 - Criar, Remover, Apagar | Parte 1",
+        "Aula 4 - Criar, Remover, Apagar | Parte 2",
+        "Aula 4 - Criar, Remover, Apagar | Parte 3",
+        "Aula 4 - Criar, Remover, Apagar | Parte 4"
+    ],
+    "practcing": {
+        "soccore": "100% - 3 de 3 acertos",
+        "alt-tab": 0,
+        "note": ""
+    }
+}
