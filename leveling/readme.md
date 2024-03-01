@@ -69,7 +69,7 @@ Módulo07: **`Utilizar sistemas operacionais - Windows`**
 **Recapitulando**  
 
 Módulo08: **`Utilizar Sistemas Operacionais - Linux`**  
-Aula01: **Versões | Praticando**  
+✅ Aula01: **Versões | Praticando**  
 Aula02: **Estrutura de diretórios | Praticando**  
 Aula03: **Entendendo o file system | Praticando**  
 Aula04: **Comandos básicos | Praticando**  
