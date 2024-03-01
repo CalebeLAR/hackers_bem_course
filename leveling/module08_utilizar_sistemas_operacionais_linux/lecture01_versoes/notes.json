@@ -1,0 +1,48 @@
+{
+    "title": "Aula 1 - Versões ",
+    "textbook": [
+        "Aula 01 – Introdução ao Linux",
+        "Aula 02 – Interfaces e Ambientes"
+    ],
+    "topics": [
+        "A origem do Linux",
+        "O que é Linux?",
+        "Drivers",
+        "O que é Linux?",
+        "Distribuições Linux",
+        "Slackware (instalação e gerenciamento de pacotes manual)",
+        "Debian (Gerenciador dpkg / apt)",
+        "Ubuntu (Baseado no Debian)",
+        "Linux Mint (Baseado no Ubuntu detalhes lembram o Windows)",
+        "Kali Linux (Baseado no Debian focada em teste de invasão)",
+        "ParrotOS (Baseado no Debian focada em teste recursos de privacidade)",
+        "Arch Linux (Gerenciador de Pacotes Pacman)",
+        "Manjaro (Baseado no ArchLinux)",
+        "Fedora (Gerenciador de Pacotes RPM - dnf)",
+        "Red Hat Enterprise Linux (Baseado no Fedora)",
+        "Android (Sistema para dispositivos móveis)",
+        "Desktop / Servidor",
+        "Interfaces",
+        "Aula 02 – Interfaces e Ambientes",
+        "Interface Gráfica do Usuário",
+        "GUI x DE",
+        "Ambientes Desktop Linux",
+        "GNOME 44",
+        "Gnome Ubuntu",
+        "KDE",
+        "CINNAMON",
+        "LXQt",
+        "XFCE",
+        "Deepin",
+        "i3wm"
+    ],
+    "videos": [
+        "Aula 1 - Versões | Parte 2",
+        "Aula 2 - Versões | Parte 2"
+    ],
+    "practcing": {
+        "soccore": "100% - 3 de 3 acertos",
+        "alt-tab": 0,
+        "note": ""
+    }
+}
