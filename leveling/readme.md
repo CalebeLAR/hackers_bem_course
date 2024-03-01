@@ -62,8 +62,17 @@ Módulo07: **`Utilizar sistemas operacionais - Windows`**
 ✅ Aula01: **Versões | Praticando**  
 ✅ Aula02: **Entendendo o file system | Praticando**  
 ✅ Aula03: **Estrutura dos diretórios | Praticando**  
-Aula04: **Criar, remover, apagar | Praticando**  
-Aula05: **Criação de usuários e permissões | Praticando**  
-Aula06: **Backup pontos e restauração registro | Praticando**  
-Aula07: **Instalações de programas pacotes drivers | Praticando**  
+✅ Aula04: **Criar, remover, apagar | Praticando**  
+✅ Aula05: **Criação de usuários e permissões | Praticando**  
+✅ Aula06: **Backup pontos e restauração registro | Praticando**  
+✅ Aula07: **Instalações de programas pacotes drivers | Praticando**  
+**Recapitulando**  
+
+Módulo08: **`Utilizar Sistemas Operacionais - Linux`**  
+Aula01: **Versões | Praticando**  
+Aula02: **Estrutura de diretórios | Praticando**  
+Aula03: **Entendendo o file system | Praticando**  
+Aula04: **Comandos básicos | Praticando**  
+Aula05: **Tipos de usuários | Praticando**  
+Aula06: **Instalação de programas e pacotes | Praticando**  
 **Recapitulando**  
