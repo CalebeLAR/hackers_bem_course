@@ -1,0 +1,34 @@
+{
+    "title": "Aula 2 - Estrutura de diretórios",
+    "textbook": [
+        "Aula 03 – Estrutura de Diretórios"
+    ],
+    "topics": [
+        "FHS – Padrão para Sistema de Arquivos Hierárquico ",
+        "Estrutura de Diretórios",
+        "/ (Barra, raiz), onde encontra-se todos os subdiretórios do sistema",
+        "usr - onde encontra-se a maioria dos programas do sistema, bibliotecas e documentação.",
+        "bin - Executáveis utilizados pelo usuário: ls, cp, apt.",
+        "sbin - Executáveis de sistema, como: ip, route, fdisk, userad.",
+        "lib - Arquivos com scripts usados por vários programas",
+        "boot - Imagem do kernel e arquivos necessários para inicialização do sistema",
+        "dev - Representações de arquivos que possibilitam acesso a HD, memória, seriais etc",
+        "etc -  Arquivos de configuração das aplicações",
+        "home - Arquivos dos usuários, como área de trabalho, documentos, downloads",
+        "root - Em sistemas que está liberado autenticação desse usuário ficam pastas como: área de trabalho, documentos, download ",
+        "media - Monta os dispositivos como DVDs e pendrives",
+        "mnt - Diretório onde o administrador pode montar partições e outros dispositivos utilizando o comando mount ou automatizando com montagem no fstab",
+        "run -  Armazena arquivos de programas em execução",
+        "tmp - Diretório de arquivos temporários, geralmente apagados no desligamento ou reinicialização do computador ou através de programas de limpeza de dados",
+        "sys - Diretório onde é possível encontrar informações de dispositivos e sobre o sistema, quando um novo dispositivo é adicionado ele é primeiro apontado em /sys, posteriormente adicionado em /dev para poder fazer a interação com esse novo dispositivo.",
+        "var - arquivos que mudam com frequência, como arquivos de log, a lista de repositórios apt, snap dnf, flatpak entre outros"
+    ],
+    "videos": [
+        "Aula 1 - Estrutura de Diretótios | Parte 1"
+    ],
+    "practcing": {
+        "soccore": "66% - 2 de 3 acertos",
+        "alt-tab": 0,
+        "note": ""
+    }
+}

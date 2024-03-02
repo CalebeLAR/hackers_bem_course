@@ -1,0 +1,28 @@
+{
+    "title": "Aula 3 - Entendendo o file system",
+    "textbook": [
+        "Aula 04 – Sistema de Arquivos",
+        "Aula 05 – Particionamento"
+    ],
+    "topics": [
+        "Sistema de Arquivos",
+        "EXT4 – Extended File System 4",
+        "Btrfs – B-Tree File System",
+        "JFS – Journaled File System",
+        "XFS - High Performance Scalable File System",
+        "ReiserFS",
+        "ZFS",
+        "Particionamento",
+        "Particionamento de disco",
+        "Partições necessárias"
+    ],
+    "videos": [
+        "Aula 3 - Entendendo o File System | Parte 1",
+        "Aula 3 - Entendendo o File System | Parte 2"
+    ],
+    "practcing": {
+        "soccore": "100% - 2 de 3 acertos",
+        "alt-tab": 0,
+        "note": ""
+    }
+}
