@@ -1,0 +1,39 @@
+{
+    "title": "Aula 5 - Tipos de usuários",
+    "textbook": [
+        "Aula 07 – Navegação no Terminal"
+    ],
+    "topics": [
+        "Usuários",
+        "Criação de usuário",
+        "Criar via CLI",
+        "useradd",
+        "adduser",
+        "useradd - m",
+        "passwd",
+        "Grupos",
+        "Criação e gerenciamento de grupos",
+        "addgroup",
+        "sudo usermod -aG hackers-do-bem $USER",
+        "Permissões",
+        "Conhecimentos necessários",
+        "Entendendo Permissões",
+        "Permissões pelo Terminal",
+        "Tabela de Permissões",
+        "Chmod chown chgrp",
+        "Permissões",
+        "CHMOD",
+        "Chgrp/chown"
+    ],
+    "videos": [
+        "Aula 5 - Tipos de Usuários | Parte 1",
+        "Aula 5 - Tipos de Usuários | Parte 2",
+        "Aula 5 - Tipos de Usuários | Parte 3",
+        "Aula 5 - Tipos de Usuários | Parte 4"
+    ],
+    "practcing": {
+        "soccore": "100% - 3 de 3 acertos",
+        "alt-tab": 0,
+        "note": ""
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Aula 4 - Comandos básicos",
+    "textbook": [
+        "Aula 06 – Navegação básica",
+        "Aula 07 – Navegação no Terminal"
+    ],
+    "topics": [
+        "Aula 06 – Navegação básica",
+        "Navegação Básica Ubuntu Desktop",
+        "Botões do menu de sistema",
+        "Aplicativos",
+        "Criação de pastas e arquivos",
+        "Aula 07 – Navegação no Terminal",
+        "Linux através do terminal!",
+        "Sudo",
+        "Comandos",
+        "mv - mover ou utilizado para renomear também",
+        "rename - é mais trabalhoso de usar, mas se for renomar vários arquivos é uma boa alternativa",
+        "rename - “Nome novo” “arquivos que quero renomear”",
+        "cp - copy",
+        "Rm - não remove diretórios. Use a opção --recursive (-r ou -R) para remover também cada diretório listado junto com todo seu conteúdo",
+        "Rmdir - – só remove se o diretório e",
+        "pwd - print work directory",
+        "cat - (contatenar 2 ou mais arquivos e mostra o conteúdo)",
+        "Ip a - / ifconfig",
+        "Sudo",
+        "Mkdir no / permissão negada",
+        "Top / btop",
+        "Df -h",
+        "| grep USB > /var/log/dmesg"
+    ],
+    "videos": [
+        "Aula 4 - Comandos básicos | Parte 1",
+        "Aula 4 - Comandos básicos | Parte 2",
+        "Aula 4 - Comandos básicos | Parte 3",
+        "Aula 4 - Comandos básicos | Parte 4"
+    ],
+    "practcing": {
+        "soccore": "100% - 3 de 3 acertos",
+        "alt-tab": 0,
+        "note": ""
+    }
+}
