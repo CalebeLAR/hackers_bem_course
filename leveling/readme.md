@@ -74,5 +74,5 @@ Módulo08: **`Utilizar Sistemas Operacionais - Linux`**
 ✅ Aula03: **Entendendo o file system | Praticando**  
 ✅ Aula04: **Comandos básicos | Praticando**  
 ✅ Aula05: **Tipos de usuários | Praticando**  
-Aula06: **Instalação de programas e pacotes | Praticando**  
+✅ Aula06: **Instalação de programas e pacotes | Praticando**  
 **Recapitulando**  
