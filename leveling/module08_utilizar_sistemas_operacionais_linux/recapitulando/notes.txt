@@ -1,0 +1,113 @@
+Recapitulando
+
+Neste curso, você conheceu a história de criação do Linux, os caminhos e mudanças até os dias atuais e o que são as interfaces gráficas deste sistema operacional. Conheceu, também, o que são estruturas de diretórios e a importância do sistema de arquivo e do particionamento nas unidades lógicas em um disco físico
+
+Além disso, conheceu os sistema Ubuntu, um dos mais utilizados em Linux, e os comandos para criar, remover e apagar arquivos. Por fim, aprendeu sobre os tipos de usuários, como criar permissões no sistema operacional e como realizar a instalação e remoção de programas e pacotes no Linux.
+
+
+Referências
+A história do linux. Disponível em: https://www.youtube.com/watch?v=uRV0c5SFIPk Acesso em 09 out. 2023 
+
+Compilando arquivo fonte. Disponível em: https://www.youtube.com/watch?v=9h7pvHt4dDQ Acesso em 09 out. 2023
+
+Linux Filesystem. Disponível em: https://opensource.com/life/16/10/introduction-linux-filesystems Acesso em 09 out. 2023
+
+Diferença entre interfaces gráficas no linux. Disponível em:
+
+https://www.youtube.com/watch?v=bHI7xK6bjHw Acesso em 09 out. 2023 
+
+Usuário em linux. Disponível em: https://www.vivaolinux.com.br/artigo/Os-usuarios-do-Linux?pagina=1 Acesso em 09 out. 2023 
+
+Flatpak Disponível em: https://flatpak.org Acesso em 09 out. 2023 
+
+Estrutura de Diretórios. Disponível em: https://diolinux.com.br/sistemas-operacionais/os-diretotios-do-linux.html Acesso em 09 out. 2023 
+
+Comandos em Linux. Disponível em: https://phoenixnap.com/kb/linux-commands Acesso em 09 out. 2023 
+
+Permissões em Linux. Disponível em: https://www.youtube.com/watch?v=sq6pd18X63Q Acesso em 09 out. 2023
+
+Créditos
+
+SENAI – DEPARTAMENTO REGIONAL DE SÃO PAULO
+
+Ricardo Figueiredo Terra
+Diretor Regional
+
+Cassia Regina Souza da Cruz
+Gerente de Educação
+
+Luiz Carlos de Almeida Filho
+Diretor da Escola SENAI de Educação Online
+
+Adilson Moreira Damasceno
+Audrey Castellani Aldecoa
+Melissa Rocha Gabarrone
+Coordenação
+
+Túlio Saji
+Conteudista
+
+Adriana de Souza Farias
+Adriana Valéria Lucena
+Danielli Guirado
+Diego Rufino
+Fabiane Marques de Oliveira
+Gustavo Vilela Santos
+Jeferson Paiva
+Mait Paredes
+Mariana Almeida
+Sueli Diogo
+Escritório de Projetos e Processos
+
+Claudia Baroni Savini Ferreira
+Camila Zanella Lückmann
+João Francisco Correia de Souza
+Phillipe Rocca Datovo
+Annadeives Aparecida Conceição Pita
+Antonio Fernando Silveira Alves
+Camila do Espirito Santo Ornela Passos
+Carolina Salvino Correa
+Catarine Aurora Nogueira Pereira
+Clarice da Silva Elias
+Cristiane de Barros Rodrigues Favareto
+Cristina Yurie Takahashi
+Fernanda Pereira
+Flávia dos Santos Silveira
+Katya Martinez Almeida
+Marcelo Mauricio da Silva
+Poliana Maria Barbosa das Neves
+Pyetra Stephannie Rodrigues Costa
+Regina Kambara Hirata
+Simony Pimentel Santos do Nascimento
+Design de Aprendizagem
+
+Paula Cristina Bataglia Buratini
+Allan Marcondes de Oliveira
+Caio Marques Rodrigues
+Ezequiel Regino Monção
+Igor Freitas
+Isabella Ferreira
+Matheus Antônio de Guimarães Elegância
+Pedro Lehi Rodrigues Muniz
+Fabiano José de Moura
+Juliana Rumi Fujishima
+Luiz Sansone
+Noel Oliveira
+Design Digital
+
+Camila Ciarini Dias
+Getulio Azevedo Alves
+Alexandre Sinachi
+Ederson Guilherme Antonio Silva
+Rafael Marques Pimenta
+Tiago Florencio da Silva
+Ligia dos Santos Daghes
+Produção Audiovisual
+
+Rafael Santiago Apolinário
+Aldo Toma Junior
+Armando Victor Pereira
+Douglas Lacerda da Conceição
+Rolfi Cintas Gomes Luz
+Wesley José Pinto Silveira
+Desenvolvimento Tecnológico

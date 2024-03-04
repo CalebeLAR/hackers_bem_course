@@ -1,0 +1,23 @@
+{
+    "title": "Aula 6 - Instalação de programas e pacotes",
+    "textbook": [
+        "Aula 08 – Conceitos de Software"
+    ],
+    "topics": [
+        "Tipos de Instalação",
+        "Pacotes Pré-Compilados",
+        "Gerenciadores de Pacote",
+        "Gerenciador de Pacotes Universais",
+        "AppImage"
+    ],
+    "videos": [
+        "Aula 6 - Instalações de programas Pacotes | Parte 1",
+        "Aula 6 - Instalações de programas Pacotes | Parte 2",
+        "Aula 6 - Instalações de programas Pacotes | Parte 3"
+    ],
+    "practcing": {
+        "soccore": "100% - 3 de 3 acertos",
+        "alt-tab": 0,
+        "note": ""
+    }
+}
