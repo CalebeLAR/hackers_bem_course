@@ -1,0 +1,29 @@
+{
+    "title": "Aula 02 – Variáveis",
+    "textbook": [
+        "Aula 02 – Variáveis"
+    ],
+    "topics": [
+        "Aula 02 – Variáveis",
+        "Comandos de entrada, saída e processamento",
+        "Tipos de variáveis",
+        "Inteiro (int)",
+        "Real (float)",
+        "Lógico (bool)",
+        "String (str)",
+        "Variáveis matemáticas",
+        "Operadores Matemáticos"
+    ],
+    "videos": [
+        "Aula 2 - Variável | Parte 1",
+        "Aula 2 - Variável | Parte 2",
+        "Aula 2 - Variável | Parte 3",
+        "Aula 2 - Variável | Parte 4"
+    ],
+    "practcing": {
+        "soccore": "33% - 1 de 3 acertos",
+        "alt-tab": 0,
+        "note": ""
+    }
+}
+

@@ -1,0 +1,33 @@
+{
+    "title": "Aula 1 - Entrada, Saída e Processamento",
+    "textbook": [
+        "Aula 1 – Entrada e Saída de Dados",
+        "Aula 02 – Variáveis"
+    ],
+    "topics": [
+        "Aula 1 – Entrada e Saída de Dados",
+        "Hardware vs Software",
+        "Processamento de Dados",
+        "Programa/Software",
+        "Como os programas são criados?",
+        "Uma linguagem de programação possui:",
+        "Símbolos reservados (ex.: +,-,*,/,etc);",
+        "Comandos/palavras reservadas (ex.: if, else, for, while,etc)",
+        "Python",
+        "google colaby",
+        "Aula 02 – Variáveis",
+        "Comandos de entrada, saída e processamento"
+    ],
+    "videos": [
+        "Aula 1 - Entrada e Saída | Parte 1",
+        "Aula 1 - Entrada e Saída | Parte 2",
+        "Aula 1 - Entrada e Saída | Parte 3",
+        "Aula 1 - Entrada e Saída | Parte 4",
+        "Aula 1 - Entrada e Saída | Parte 5"
+    ],
+    "practcing": {
+        "soccore": "100% - 3 de 3 acertos",
+        "alt-tab": 0,
+        "note": "na aula os exemplos praticos foram feitos no google colaby, usando python. os comando usados foram 'print' e 'input'"
+    }
+}
