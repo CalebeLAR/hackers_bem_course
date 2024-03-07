@@ -38,25 +38,20 @@ const gitCommitLectures = (start, end, message = '') => {
   }
 };
 
-// mkdirModule();
-// console.log('*'.repeat(100));
-// mkdirLectures();
-// console.log('*'.repeat(100));
-// touchLectures();
-
-const commitMessage = 'hackers_do_bem.nivelamento.module05';
+const commitMessage = `hackers_do_bem.leveling.${dataModule.split('_')[0]}`;
 const start = 1;
-const end = 3;
+const end = undefined;
 
-console.log(
-  'MODULO NUMERO MODULO NUMERO MODULO NUMERO MODULO NUMERO MODULO NUMERO'
-);
 const gitPush = (start, end, commitMessage) => {
   gitAddLectures(start, end);
   console.log(' && ');
   gitCommitLectures(start, end, commitMessage);
 };
-
+// mkdirModule();
+// console.log('*'.repeat(100));
+// mkdirLectures();
+// console.log('*'.repeat(100));
+// touchLectures();
 gitPush(start, end, commitMessage);
 
 
