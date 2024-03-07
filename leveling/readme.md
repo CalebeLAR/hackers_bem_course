@@ -76,3 +76,10 @@ Módulo08: **`Utilizar Sistemas Operacionais - Linux`**
 ✅ Aula05: **Tipos de usuários | Praticando**  
 ✅ Aula06: **Instalação de programas e pacotes | Praticando**  
 **Recapitulando**  
+
+Módulo09: **`Lógica de Programação`**  
+✅ Aula01: **Entrada, Saída e Processamento**  
+✅ Aula02: **Variável**  
+✅ Aula03: **Estrutura Condicional**  
+✅ Aula04: **Estrutura de Repetição**  
+Recapitulando  
