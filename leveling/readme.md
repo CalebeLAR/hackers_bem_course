@@ -82,4 +82,4 @@ Módulo09: **`Lógica de Programação`**
 ✅ Aula02: **Variável**  
 ✅ Aula03: **Estrutura Condicional**  
 ✅ Aula04: **Estrutura de Repetição**  
-Recapitulando  
+*Recapitulando*  
