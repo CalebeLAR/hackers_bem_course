@@ -1,0 +1,47 @@
+{
+    "title": "Aula 2 - Scripts Linux",
+    "textbook": [
+        "Aula 01 – Introdução ao desenvolvimento de scripts em Linux",
+        "Aula 02 – Exemplos práticos:• scripts básicos para automação de tarefas de segurança cibernética em Linux",
+        "Aula 04 – Introdução ao desenvolvimento de scripts em Linux"
+    ],
+    "topics": [
+        "Introdução",
+        "O que é Script?",
+        "Por que usar scripts?",
+        "Automatização de processos",
+        "Importância da automação de tarefas",
+        "Noções da Linguagem Bash",
+        "Kali Linux",
+        "Ambientes de desenvolvimento",
+        "Verificação de Logs de Autenticação",
+        "Verificação de Atualizações do Sistema",
+        "Manipulação de arquivos",
+        "Substituição de Comando com `$()`:",
+        "Substituição de Comando com Backticks (``):",
+        "Exemplo de Execução de Comando Externo em Script: `df -h`",
+        "Exemplos Práticos de Scripts para Operações de Arquivo, Diretório e Execução de Comandos:",
+        "Aula 04 – Introdução ao desenvolvimento de scripts em Linux",
+        "Script de Detecção de Portas Abertas:",
+        "Script de Análise de Logs de Autenticação: ",
+        "Exemplos de Scripts com Foco em Segurança Cibernética:",
+        "4. Script de Verificação de Vulnerabilidades em Sistemas:",
+        "5. Script de Monitoramento de Arquivos Críticos:",
+        "6. Script de Análise Forense para Coleta de Evidências:"
+    ],
+    "videos": [
+        "Aula 2 - Scripts Linux | Parte 1",
+        "Aula 2 - Scripts Linux | Parte 2",
+        "Aula 2 - Scripts Linux | Parte 3",
+        "Aula 2 - Scripts Linux | Parte 4",
+        "Aula 2 - Scripts Linux | Parte 5",
+        "Aula 2 - Scripts Linux | Parte 6",
+        "Aula 2 - Scripts Linux | Parte 7",
+        "Aula 2 - Scripts Linux | Parte 8"
+    ],
+    "practcing": {
+        "soccore": "100% - 3 de 3 acertos",
+        "alt-tab": 0,
+        "note": ""
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "title": "Aula 1 - Scripts Windows",
+    "textbook": [
+        "Desenvolvimento de Scripts WINDOWS"
+    ],
+    "topics": [
+        "Aula 04 – Introdução ao desenvolvimento de scripts em Linux",
+        "Introdução ao desenvolvimento de scripts",
+        "O que são Scripts?",
+        "Aplicação",
+        "Linguagens populares de script para Windows",
+        "PowerShell",
+        "Batch",
+        "VBScript",
+        "JavaScript",
+        "Vantagens do uso de scripts",
+        "Riscos e boas práticas",
+        "Conclusão",
+        "Desenvolvimento de scripts avançados",
+        "Técnicas avançadas de script",
+        "Escrever mensagem em tela  usando bath",
+        "Cálculo de variáveis usando bath",
+        "Operadores relacionais usando bath",
+        "Manipulação de arquivos usando bath",
+        "Manipulação de arquivos usando bath",
+        "PowerShell write-host",
+        "PowerShell functions",
+        "Script de Remoção de Malwares no Registro",
+        "Script de Criptografia e descriptografia de mensagem",
+        "Verificação de Políticas de Segurança",
+        "Varredura de Portas e Conexões Ativas",
+        "Verificação de Atividades de Logon",
+        "Análise de Processos Suspeitos",
+        "Conclusão"
+    ],
+    "videos": [
+        "Aula  1 - Scripts Windows | Parte 1",
+        "Aula  1 - Scripts Windows | Parte 2",
+        "Aula  1 - Scripts Windows | Parte 3",
+        "Aula  1 - Scripts Windows | Parte 4",
+        "Aula  1 - Scripts Windows | Parte 5",
+        "Aula  1 - Scripts Windows | Parte 6",
+        "Aula  1 - Scripts Windows | Parte 7"
+    ],
+    "practcing": {
+        "soccore": "66% - 2 de 3 acertos",
+        "alt-tab": 0,
+        "note": "a apostila está desorgaizada"
+    }
+}
