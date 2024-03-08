@@ -83,3 +83,8 @@ Módulo09: **`Lógica de Programação`**
 ✅ Aula03: **Estrutura Condicional**  
 ✅ Aula04: **Estrutura de Repetição**  
 **Recapitulando**  
+
+Módulo10:  **`Desenvolvimento de Scripts`**  
+✅ Aula01: **Scripts Windows | Praticando**  
+✅ Aula02: **Scripts Linux | Praticando**  
+**Recapitulando**  
