@@ -47,11 +47,11 @@ const gitPush = (start, end, commitMessage) => {
   console.log(' && ');
   gitCommitLectures(start, end, commitMessage);
 };
-// mkdirModule();
+mkdirModule();
 // console.log('*'.repeat(100));
 // mkdirLectures();
 // console.log('*'.repeat(100));
 // touchLectures();
-gitPush(start, end, commitMessage);
+// gitPush(start, end, commitMessage);
 
 
