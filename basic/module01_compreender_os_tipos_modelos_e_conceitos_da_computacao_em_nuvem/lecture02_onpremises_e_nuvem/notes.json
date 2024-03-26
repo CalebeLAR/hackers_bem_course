@@ -1,0 +1,56 @@
+{
+    "title": "Aula 2 - On-premises e Nuvem",
+    "textbook": [
+        "Aula 7 - IaaS",
+        "Aula 8 - PaaS",
+        "Aula 9 - SaaS",
+        "Aula 10 - Modelos de Implantação em Nuvem"
+    ],
+    "topics": [
+        "IaaS",
+        "Aula 7 -  IaaS",
+        "Introdução",
+        "Modelos de Serviço em Nuvem",
+        "O que é Infraestrutura?",
+        "O que é Infraestrutura como Serviço?",
+        "Responsabilidade do Cliente no IaaS",
+        "Exemplo de uso de IaaS",
+        "Conclusão",
+        "PaaS",
+        "Aula 8 - PaaS",
+        "Introdução",
+        "O que é Plataforma como Serviço?",
+        "Como Funciona o PaaS?",
+        "Comparação: Criando um Banco de Dados em IaaS e PaaS",
+        "Responsabilidade do Cliente no PaaS",
+        "Benefícios do PaaS",
+        "Conclusão",
+        "",
+        "Aula 9 - SaaS",
+        "SaaS",
+        "Introdução",
+        "O que é Software como Serviço?",
+        "Como Funciona o SaaS?",
+        "Comparação: Armazenamento de Arquivos em PaaS e SaaS",
+        "Responsabilidade do Cliente no SaaS",
+        "Conclusão",
+        "Aula 10 - Modelos de Implantação em Nuvem",
+        "Introdução",
+        "Nuvem Pública",
+        "Nuvem Privada",
+        "Nuvem Híbrida",
+        "Comparando os Modelos",
+        "Conclusão"
+    ],
+    "videos": [
+        "Aula 2 - Diferenças entre on-premisses e nuvem | PT I",
+        "Aula 2 - Diferenças entre on-premisses e nuvem | PT II",
+        "Aula 2 - Diferenças entre on-premisses e nuvem | Parte 3",
+        "Aula 2 - Diferenças entre on-premisses e nuvem | Parte 4"
+    ],
+    "practcing": {
+        "soccore": "100% - 3 de 3 acertos",
+        "alt-tab": 0,
+        "note": "erros apostila p76"
+    }
+}
