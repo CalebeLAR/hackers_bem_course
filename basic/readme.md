@@ -8,7 +8,7 @@ Módulo01: **`Compreender os tipos, modelos e conceitos da computação em nuvem
 **Recapitulando**  
 
 Módulo02: **`Compreender os principais conceitos de desenvolvimento`**  
-Aula01 – **Principais tipos de linguagem de programação | Praticando**  
+✅ Aula01 – **Principais tipos de linguagem de programação | Praticando**  
 Aula02 – **Principais tipos de aplicações | Praticando**  
 Aula03 – **Conceitos de front-end e back-end | Praticando**  
 Aula04 – **Metodologias de desenvolvimento | Praticando**  
