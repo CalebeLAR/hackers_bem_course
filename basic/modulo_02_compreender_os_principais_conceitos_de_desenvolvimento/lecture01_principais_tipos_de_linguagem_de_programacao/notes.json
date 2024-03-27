@@ -1,0 +1,36 @@
+{
+    "title": "Aula 1 – Principais tipos de linguagem de programação",
+    "textbook": [
+        "Aula 1 – Principais tipos de linguagem de programação",
+        "Aula 16 - Segurança em Nuvem Mitigando falhas"
+    ],
+    "topics": [
+        "Aula 1 – Principais tipos de linguagem de programação",
+        "Linguagem de programação",
+        "Linguagem de programação x Linguagem de computação",
+        "Tipos de linguagem de programação",
+        "   Linguagem de programação de baixo nível",
+        "   Linguagem de máquina",
+        "   Linguagem Assembly",
+        "   Linguagem de programação de alto nível",
+        "   Tradutor",
+        "   Compilador",
+        "   As vantagens das linguagens de alto nível são",
+        "Linguagens mais utilizadas",
+        "Linguagens de programação mais usadas",
+        "   Java",
+        "   JavaScript",
+        "   C#",
+        "   Python",
+        "   Ruby"
+    ],
+    "videos": [
+        "Aula 1 - Linguagens de Programação | Parte 1",
+        "Aula 1 - Linguagens de Programação | Parte 2"
+    ],
+    "practcing": {
+        "soccore": "100% - 3 de 3 acertos",
+        "alt-tab": 0,
+        "note": ""
+    }
+}
