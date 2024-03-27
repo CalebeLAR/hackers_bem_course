@@ -1,0 +1,121 @@
+Recapitulando
+
+Referências
+CHEE, B. J. S.; FRANKLIN JÚNIOR, C. Cloud computing: tecnologias e estratégias. [S. l.]: Editora M. Books, 2013. 
+
+SOUSA NETO, M. V. Computação em Nuvem Nova Arquitetura de TI. [S. l.]: Editora Brasport, 2015.
+
+VELTE, A. T. Computação em nuvem: uma abordagem prática. [S. l.]: Editora Alta Books, 2012.
+
+Créditos
+CONFEDERAÇÃO NACIONAL DA INDÚSTRIA – CNI
+
+Antonio Ricardo Alvarez Alban
+Presidente
+
+Gabinete da Presidência
+Danusa Costa Lima e Silva de Amorim
+Chefe do Gabinete – Diretora
+
+Serviço Nacional de Aprendizagem Industrial – SENAI
+Antonio Ricardo Alvarez Alban
+Presidente do Conselho Nacional
+
+SENAI – Departamento Nacional
+Gustavo Leal Sales Filho
+Diretor-Geral
+
+
+SUPERINTENDÊNCIA DE EDUCAÇÃO PROFISSIONAL E SUPERIOR – SUEPS
+
+Felipe Esteves Morgado
+Superintendente de Educação Profissional e Superior
+
+Luiz Eduardo Leão
+Gerente de Tecnologias Educacionais
+
+Anna Christina Theodora Aun de Azevedo Nascimento
+Cyro Visgueiro Maciel
+Laíse Caldeira Pedroso
+Décio Campos da Silva
+Coordenação Geral de Desenvolvimento dos Recursos Didáticos Nacionais
+
+
+SENAI – DEPARTAMENTO REGIONAL DE SÃO PAULO
+Ricardo Figueiredo Terra
+Diretor Regional
+
+Cassia Regina Souza da Cruz
+Gerente de Educação
+
+Luiz Carlos de Almeida Filho
+Diretor da Escola SENAI de Educação Online
+
+Adilson Moreira Damasceno
+Audrey Castellani Aldecoa
+Melissa Rocha Gabarrone
+Coordenação
+
+Paulo Brandão
+Desenvolvimento de Conteúdo
+
+Laercio Ferreira da Silva
+Adriana Valéria Lucena
+Allan Marcondes de Oliveira
+Fabiane Marques de Oliveira
+Maurício Rodrigues de Moraes
+Rafael Felipe Pérsico
+Sueli Diogo
+Escritório de Projetos e Processos
+
+Adriana de Souza Farias
+Camila Zanella Lückmann
+João Francisco Correia de Souza
+Phillipe Rocca Datovo
+Annadeives Aparecida Conceição Pita
+Carolina Salvino Corrêa
+Catarine Aurora Nogueira Pereira
+Clarice da Silva Elias
+Cristiane de Barros Rodrigues Favareto
+Cristina Yurie Takahashi
+Danielli Guirado
+Fernanda Pereira
+Flávia dos Santos Silveira
+Jeferson Paiva
+Katya Martinez Almeida
+Mait Paredes
+Marcelo Mauricio da Silva
+Mariana Almeida
+Pyetra Stephannie Rodrigues Costa
+Regina Kambara Hirata
+Simony Pimentel Santos do Nascimento
+Design de Aprendizagem
+
+Paula Cristina Bataglia Buratini
+Caio Marques Rodrigues
+Ezequiel Regino Monção
+Fabiano José de Moura
+Igor Freitas
+Isabella Ferreira
+Juliana Rumi Fujishima
+Luiz Sansone
+Matheus Antônio de Guimarães Elegância
+Noel Oliveira
+Pedro Lehi Rodrigues Muniz
+Design Digital
+
+Camila Ciarini Dias
+Getulio Azevedo Alves
+Ederson Guilherme Antonio Silva
+Ligia dos Santos Daghes
+Rafael Marques Pimenta
+Tiago Florencio da Silva
+Produção Audiovisual
+
+Rafael Santiago Apolinário
+Aldo Toma Junior
+Armando Victor Pereira
+Douglas Lacerda da Conceição
+Rolfi Cintas Gomes Luz
+Wesley José Pinto Silveira
+Desenvolvimento Tecnológico

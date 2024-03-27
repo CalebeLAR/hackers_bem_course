@@ -1,0 +1,55 @@
+{
+    "title": "Aula 4 - Modelos de Implantação em Nuvem",
+    "textbook": [
+        "Aula 15 - Segurança em Nuvem Principais falhas",
+        "Aula 16 - Segurança em Nuvem Mitigando falhas"
+    ],
+    "topics": [
+        "Aula 15 - Segurança em Nuvem Principais falhas",
+        "Acesso Não Autorizado",
+        "Exemplo de Acesso Não Autorizado",
+        "Configurações Inadequadas",
+        "Exemplo de Configurações Inadequadas",
+        "Falta de Monitoramento",
+        "Exemplo de Falta de Monitoramento",
+        "Conclusão",
+        "Introdução",
+        "Acesso Não Autorizado",
+        "Mitigando o Acesso Não Autorizado",
+        "Serviços de Gestão de Identidade e Acesso na Nuvem",
+        "Amazon Web Services:",
+        "   AWS IAM",
+        "Microsoft Azure:",
+        "   Microsoft Azure Active Directory (Azure AD)",
+        "Google Cloud:",
+        "   Google Cloud Identity and Access Management (IAM)",
+        "Configurações Inadequadas",
+        "Mitigando as Configurações Inadequadas",
+        "Serviços de Configuração Segura na Nuvem",
+        "Amazon Web Services:",
+        "   AWS Config.",
+        "Microsoft Azure:",
+        "   Microsoft Azure Policy.",
+        "Google Cloud:",
+        "   Google Cloud Security Command Center",
+        "Falta de Monitoramento",
+        "Mitigando a Falta de Monitoramento",
+        "Serviços de Monitoramento na Nuvem",
+        "Amazon Web Services:",
+        "   Amazon CloudWatch",
+        "Microsoft Azure:",
+        "   Microsoft Azure Monitor",
+        "Google Cloud:",
+        "   Google Cloud Operations Suite",
+        "Conclusão"
+    ],
+    "videos": [
+        "Aula 4 - Segurança em Nuvem | Parte 1",
+        "Aula 4 - Segurança em Nuvem | Parte 2"
+    ],
+    "practcing": {
+        "soccore": "100% - 3 de 3 acertos",
+        "alt-tab": 0,
+        "note": ""
+    }
+}
