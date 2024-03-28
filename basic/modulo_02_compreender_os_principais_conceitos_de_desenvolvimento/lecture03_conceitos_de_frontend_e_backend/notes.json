@@ -1,0 +1,52 @@
+{
+    "title": "Aula 3 – Conceitos de front-end e back-end",
+    "textbook": [
+        "Aula 3 – Conceitos de front-end e back-end"
+    ],
+    "topics": [
+        "Front-end",
+        "Desenvolvimento Front-end",
+        "UX Design",
+        "Protótipos",
+        "Inspecionando",
+        "Back-end",
+        "Desenvolvimento Back-end",
+        "Exemplos de Funcionalidades",
+        "API - Application Programming Interface (Interface de Programação de Aplicação)",
+        "Requisições HTTP",
+        "   Os verbos HTTP mais utilizados são:",
+        "      GET - Solicita dados de um recurso.",
+        "      POST - Envia dados para serem processados por um recurso.",
+        "      PATCH - Modifica partes de um recurso existente.",
+        "      PUT - Atualiza um recurso.",
+        "      DELETE - Remove um recurso",
+        "Análise de riscos",
+        "   Testes de Segurança",
+        "   Atualização",
+        "   Criptografia",
+        "   Autenticação",
+        "Testes de segurança",
+        "   funcionalidade",
+        "   usabilidade",
+        "   performance",
+        "   confiabilidade",
+        "   compatibilidade",
+        "   segurança",
+        "Atualização e conhecimento das ameaças",
+        "   permite antecipar e prevenir possíveis ataques",
+        "Criptografia de dados",
+        "Autenticação e autorização de usuários",
+        "   evitandar acesso indevido ou malicioso"
+    ],
+    "videos": [
+        "Aula 3 - Conceitos de Front-end e Back-end | Parte 1",
+        "Aula 3 - Conceitos de Front-end e Back-end | Parte 2",
+        "Aula 3 - Conceitos de Front-end e Back-end | Parte 3",
+        "Aula 3 - Conceitos de Front-end e Back-end | Parte 4"
+    ],
+    "practcing": {
+        "soccore": "100% - 3 de 3 acertos",
+        "alt-tab": 0,
+        "note": ""
+    }
+}
